@@ -1,0 +1,4 @@
+# Python dependencies for foodplan project
+
+# HTTP requests for API scraping
+requests>=2.31.0

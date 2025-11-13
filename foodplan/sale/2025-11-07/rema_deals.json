@@ -1,0 +1,1269 @@
+{
+  "store_name": "Rema 1000",
+  "scraped_at": "2025-11-07T22:08:11.684265",
+  "valid_from": "2025-11-09",
+  "valid_to": "2025-11-15",
+  "week_number": 46,
+  "deals": [
+    {
+      "category": "Meat & Poultry",
+      "original_name": "REMA 1000 panerede fisk, sildefileter eller ekstra store grønlandske rejer Dybfrost 200-500 g",
+      "normalized_name": "REMA 1000 panerede fisk, sildefileter eller ekstra store grønlandske rejer Dybfrost 200-500 g",
+      "price": 25.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Kohberg brød 380-1000 g",
+      "normalized_name": "Kohberg brød 380-1000 g",
+      "price": 12.0,
+      "quantity": "1000 g",
+      "unit_type": "g",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Haribo poser 120 g",
+      "normalized_name": "Haribo poser 120 g",
+      "price": 10.0,
+      "quantity": "120 g",
+      "unit_type": "g",
+      "price_per_unit": 83.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Pålækker pålæg, flere varianter, baconpostej eller salamihapser 50-200 g",
+      "normalized_name": "Pålækker pålæg, flere varianter, baconpostej eller salamihapser 50-200 g",
+      "price": 12.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk kyllingebrystfilet, kyllingebryst med BBQ, inderfilet, hele lår med havsalt & peber eller kyllingelår med BBQ 300-825 g",
+      "normalized_name": "Dansk kyllingebrystfilet, kyllingebryst med BBQ, inderfilet, hele lår med havsalt & peber eller kyllingelår med BBQ 300-825 g",
+      "price": 35.0,
+      "quantity": "825 g",
+      "unit_type": "g",
+      "price_per_unit": 42.42,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk kylling 1350 g",
+      "normalized_name": "Dansk kylling 1350 g",
+      "price": 49.0,
+      "quantity": "1350 g",
+      "unit_type": "g",
+      "price_per_unit": 36.3,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Hakket dansk oksekød 4-7%, cremet pastaret, gryderet med bacon eller rødvinsgryde med kalvestrimler 350-400 g",
+      "normalized_name": "Hakket dansk oksekød 4-7%, cremet pastaret, gryderet med bacon eller rødvinsgryde med kalvestrimler 350-400 g",
+      "price": 45.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 112.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk ovnklar ribbenssteg eller mørbrad",
+      "normalized_name": "Dansk ovnklar ribbenssteg eller mørbrad",
+      "price": 29.95,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 4.99,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Laksefilet 600 g",
+      "normalized_name": "Laksefilet 600 g",
+      "price": 99.0,
+      "quantity": "600 g",
+      "unit_type": "g",
+      "price_per_unit": 165.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Frilandsgris Flere varianter 250-400 g",
+      "normalized_name": "Frilandsgris Flere varianter 250-400 g",
+      "price": 30.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 75.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Frilandsgris skinkeculotte med ramsløg & tomat 800-1200 g Pr. stk.",
+      "normalized_name": "Frilandsgris skinkeculotte med ramsløg & tomat 800-1200 g Pr. stk.",
+      "price": 79.0,
+      "quantity": "1200 g",
+      "unit_type": "g",
+      "price_per_unit": 65.83,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Frilandsgris hotdogpølser, wienerpølser eller frankfurter 375-400 g",
+      "normalized_name": "Frilandsgris hotdogpølser, wienerpølser eller frankfurter 375-400 g",
+      "price": 25.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Hele danske kyllingelår eller ovnklare kyllingelår med BBQ Dybfrost 1000-1250 g",
+      "normalized_name": "Hele danske kyllingelår eller ovnklare kyllingelår med BBQ Dybfrost 1000-1250 g",
+      "price": 35.0,
+      "quantity": "1250 g",
+      "unit_type": "g",
+      "price_per_unit": 28.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Blåbær Udenlandske 125 g",
+      "normalized_name": "Blåbær Udenlandske 125 g",
+      "price": 12.0,
+      "quantity": "125 g",
+      "unit_type": "g",
+      "price_per_unit": 96.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Broccoli Udenlandsk Pr. bundt",
+      "normalized_name": "Broccoli Udenlandsk Pr. bundt",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Danske porrer Pr. stk.",
+      "normalized_name": "Danske porrer Pr. stk.",
+      "price": 4.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 4.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Squash Udenlandsk Pr. stk.",
+      "normalized_name": "Squash Udenlandsk Pr. stk.",
+      "price": 5.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 5.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Nemt & Grønt Fransk vinaigrette 35 g",
+      "normalized_name": "Nemt & Grønt Fransk vinaigrette 35 g",
+      "price": 5.0,
+      "quantity": "35 g",
+      "unit_type": "g",
+      "price_per_unit": 142.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Danske Lammefjordskartofler 1.5 kg",
+      "normalized_name": "Danske Lammefjordskartofler 1.5 kg",
+      "price": 10.0,
+      "quantity": "1.5 kg",
+      "unit_type": "kg",
+      "price_per_unit": 6.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Riberhus mellemlagret 45+ Med eller uden kommen 468-572 g",
+      "normalized_name": "Riberhus mellemlagret 45+ Med eller uden kommen 468-572 g",
+      "price": 45.0,
+      "quantity": "572 g",
+      "unit_type": "g",
+      "price_per_unit": 78.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "REMA 1000 danablu eller dansk brie 150-200 g",
+      "normalized_name": "REMA 1000 danablu eller dansk brie 150-200 g",
+      "price": 15.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 75.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Philadelphia light, original, hvidløg & urter eller plant based naturel 145-200 g",
+      "normalized_name": "Philadelphia light, original, hvidløg & urter eller plant based naturel 145-200 g",
+      "price": 15.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 75.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Them økologisk Rød Krystal ost, Gudenå Gylden ost eller Gudenå Glød ost 200-225 g",
+      "normalized_name": "Them økologisk Rød Krystal ost, Gudenå Gylden ost eller Gudenå Glød ost 200-225 g",
+      "price": 35.0,
+      "quantity": "225 g",
+      "unit_type": "g",
+      "price_per_unit": 155.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Norsk Jarlsberg original eller Gudbrandsdalen myseost 450-500 g",
+      "normalized_name": "Norsk Jarlsberg original eller Gudbrandsdalen myseost 450-500 g",
+      "price": 45.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 90.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Tørret frugt 100-500 g",
+      "normalized_name": "Tørret frugt 100-500 g",
+      "price": 20.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pasta & International",
+      "original_name": "Vaniljepasta eller REMA 1000 vaniljestænger 50 g/2 stk.",
+      "normalized_name": "Vaniljepasta eller REMA 1000 vaniljestænger 50 g/2 stk.",
+      "price": 15.0,
+      "quantity": "50 g",
+      "unit_type": "g",
+      "price_per_unit": 300.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Paradiso hele asparges, grønne asparges, aspargessnitter eller økologiske asparges-snitter 110-240 g",
+      "normalized_name": "Paradiso hele asparges, grønne asparges, aspargessnitter eller økologiske asparges-snitter 110-240 g",
+      "price": 15.0,
+      "quantity": "240 g",
+      "unit_type": "g",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Beauvais survarer, Bähncke sennep eller Dijonnaise 225-580 g",
+      "normalized_name": "Beauvais survarer, Bähncke sennep eller Dijonnaise 225-580 g",
+      "price": 20.0,
+      "quantity": "580 g",
+      "unit_type": "g",
+      "price_per_unit": 34.48,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 luksus hvidvinsgløgg eller rødvinsgløgg med rom, 12.5% 75 cl",
+      "normalized_name": "REMA 1000 luksus hvidvinsgløgg eller rødvinsgløgg med rom, 12.5% 75 cl",
+      "price": 39.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 52.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Bedste Høst Hasselnødder eller valnødder 250-400 g",
+      "normalized_name": "Bedste Høst Hasselnødder eller valnødder 250-400 g",
+      "price": 24.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 Julens gløgg, luksus alkoholfri gløgg eller æblegløgg 700-1000 ml Ex. pant",
+      "normalized_name": "REMA 1000 Julens gløgg, luksus alkoholfri gløgg eller æblegløgg 700-1000 ml Ex. pant",
+      "price": 25.0,
+      "quantity": "1000 ml",
+      "unit_type": "ml",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Yogi Tea eller Fredsted te 24-35.7 g",
+      "normalized_name": "Yogi Tea eller Fredsted te 24-35.7 g",
+      "price": 20.0,
+      "quantity": "35.7 g",
+      "unit_type": "g",
+      "price_per_unit": 560.22,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Grønne figner i sirup 500 g",
+      "normalized_name": "Grønne figner i sirup 500 g",
+      "price": 39.95,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 79.9,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Peberkagehus eller store peberkagehjerter 385-410 g",
+      "normalized_name": "Peberkagehus eller store peberkagehjerter 385-410 g",
+      "price": 30.0,
+      "quantity": "410 g",
+      "unit_type": "g",
+      "price_per_unit": 73.17,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Bakkegårdens brunkager, vaniljekranse eller pebernødder 285-400 g",
+      "normalized_name": "Bakkegårdens brunkager, vaniljekranse eller pebernødder 285-400 g",
+      "price": 12.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "REMA 1000 Julens klejner 170 g",
+      "normalized_name": "REMA 1000 Julens klejner 170 g",
+      "price": 12.0,
+      "quantity": "170 g",
+      "unit_type": "g",
+      "price_per_unit": 70.59,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "REMA 1000 økologiske brunkager eller pebernødder 150-180 g",
+      "normalized_name": "REMA 1000 økologiske brunkager eller pebernødder 150-180 g",
+      "price": 20.0,
+      "quantity": "180 g",
+      "unit_type": "g",
+      "price_per_unit": 111.11,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "REMA 1000 havregrynskugler eller romkugler 175 g",
+      "normalized_name": "REMA 1000 havregrynskugler eller romkugler 175 g",
+      "price": 12.0,
+      "quantity": "175 g",
+      "unit_type": "g",
+      "price_per_unit": 68.57,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "REMA 1000 vaniljekranse, pebernødder, jødekager eller finskbrød 170-180 g",
+      "normalized_name": "REMA 1000 vaniljekranse, pebernødder, jødekager eller finskbrød 170-180 g",
+      "price": 10.0,
+      "quantity": "180 g",
+      "unit_type": "g",
+      "price_per_unit": 55.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Vorgod Bageri store vaniljekranse eller brunkager 120-160 g",
+      "normalized_name": "Vorgod Bageri store vaniljekranse eller brunkager 120-160 g",
+      "price": 15.0,
+      "quantity": "160 g",
+      "unit_type": "g",
+      "price_per_unit": 93.75,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Karen Volf brunkager, vaniljekranse eller pebernødder 165-300 g",
+      "normalized_name": "Karen Volf brunkager, vaniljekranse eller pebernødder 165-300 g",
+      "price": 15.0,
+      "quantity": "300 g",
+      "unit_type": "g",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Christiansfelder honninghjerte 80 g",
+      "normalized_name": "Christiansfelder honninghjerte 80 g",
+      "price": 15.0,
+      "quantity": "80 g",
+      "unit_type": "g",
+      "price_per_unit": 187.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Dan Cake sirupsroulade eller krydderi julemazarin 300 g",
+      "normalized_name": "Dan Cake sirupsroulade eller krydderi julemazarin 300 g",
+      "price": 15.0,
+      "quantity": "300 g",
+      "unit_type": "g",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Eiskonfekt, Bismarck stokke eller Lindt teddy 40-170 g",
+      "normalized_name": "Eiskonfekt, Bismarck stokke eller Lindt teddy 40-170 g",
+      "price": 20.0,
+      "quantity": "170 g",
+      "unit_type": "g",
+      "price_per_unit": 117.65,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Amoretta Classic, Desserts, Praliner med Cointreau eller Amaretto 90-106 g",
+      "normalized_name": "Amoretta Classic, Desserts, Praliner med Cointreau eller Amaretto 90-106 g",
+      "price": 25.0,
+      "quantity": "106 g",
+      "unit_type": "g",
+      "price_per_unit": 235.85,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Toms Guldknas 75 g",
+      "normalized_name": "Toms Guldknas 75 g",
+      "price": 15.0,
+      "quantity": "75 g",
+      "unit_type": "g",
+      "price_per_unit": 200.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fazer eller Møn Bolcher Flere varianter 228-280 g",
+      "normalized_name": "Fazer eller Møn Bolcher Flere varianter 228-280 g",
+      "price": 39.0,
+      "quantity": "280 g",
+      "unit_type": "g",
+      "price_per_unit": 139.29,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Marcipangris med mørk chokolade, Lindt bar, Kinder Santa Claus 3-pak eller Kinder Santa Claus x-mas 35-55 g",
+      "normalized_name": "Marcipangris med mørk chokolade, Lindt bar, Kinder Santa Claus 3-pak eller Kinder Santa Claus x-mas 35-55 g",
+      "price": 15.0,
+      "quantity": "55 g",
+      "unit_type": "g",
+      "price_per_unit": 272.73,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "REMA 1000 juleposer Mini snebolde, brændte mandler, hasselnødder med chokolade, nougat mandler, chokoladerosiner, chokoladekugler eller mandler med karamel 80-140 g",
+      "normalized_name": "REMA 1000 juleposer Mini snebolde, brændte mandler, hasselnødder med chokolade, nougat mandler, chokoladerosiner, chokoladekugler eller mandler med karamel 80-140 g",
+      "price": 20.0,
+      "quantity": "140 g",
+      "unit_type": "g",
+      "price_per_unit": 142.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "REMA 1000 nøddebrud, pebermyntetærter, kokostoppe, marcipansnitter, pebermynte- eller karameltoppe 130-175 g",
+      "normalized_name": "REMA 1000 nøddebrud, pebermyntetærter, kokostoppe, marcipansnitter, pebermynte- eller karameltoppe 130-175 g",
+      "price": 25.0,
+      "quantity": "175 g",
+      "unit_type": "g",
+      "price_per_unit": 142.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "REMA 1000 marcipanbrød, marcipanbrød med saltkaramel eller nougat 75 g",
+      "normalized_name": "REMA 1000 marcipanbrød, marcipanbrød med saltkaramel eller nougat 75 g",
+      "price": 15.0,
+      "quantity": "75 g",
+      "unit_type": "g",
+      "price_per_unit": 200.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "REMA 1000 skumnisser med eller uden chokoladeovertræk 90 g",
+      "normalized_name": "REMA 1000 skumnisser med eller uden chokoladeovertræk 90 g",
+      "price": 10.0,
+      "quantity": "90 g",
+      "unit_type": "g",
+      "price_per_unit": 111.11,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "REMA 1000 chokoladekranse eller knapper 200 g",
+      "normalized_name": "REMA 1000 chokoladekranse eller knapper 200 g",
+      "price": 25.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 125.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Frikadeller, kødboller, karbonader, panderetter eller madtærter Flere varianter 400-500 g",
+      "normalized_name": "Frikadeller, kødboller, karbonader, panderetter eller madtærter Flere varianter 400-500 g",
+      "price": 25.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Coca-Cola original, Zero sugar, Fanta orange, Fanta exotic, Tuborg squash appelsin sukkerfri eller schweppes lemon 1.25-1.5 liter Ex. pant",
+      "normalized_name": "Coca-Cola original, Zero sugar, Fanta orange, Fanta exotic, Tuborg squash appelsin sukkerfri eller schweppes lemon 1.25-1.5 liter Ex. pant",
+      "price": 12.0,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Diamond Hill Australsk rød-, hvid- eller rosévin",
+      "normalized_name": "Diamond Hill Australsk rød-, hvid- eller rosévin",
+      "price": 89.0,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 14.83,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Karolines Køkken revet mozzarella, mozzarella i tern eller Cheasy revet mozzarella 150-200 g",
+      "normalized_name": "Karolines Køkken revet mozzarella, mozzarella i tern eller Cheasy revet mozzarella 150-200 g",
+      "price": 12.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Jacobsen Juletid IPA, Jacobsen Christmas ale eller Grimbergen Noël 75 cl. Ex. pant",
+      "normalized_name": "Jacobsen Juletid IPA, Jacobsen Christmas ale eller Grimbergen Noël 75 cl. Ex. pant",
+      "price": 20.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 26.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Beverages",
+      "original_name": "Skovlyst JuleBryg mørk gylden ale, Skovlyst ElleBryg alkoholfri eller Refsvindinge ale No 24 50 cl. Ex. pant",
+      "normalized_name": "Skovlyst JuleBryg mørk gylden ale, Skovlyst ElleBryg alkoholfri eller Refsvindinge ale No 24 50 cl. Ex. pant",
+      "price": 12.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 24.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GB jul, Thisted jule dubbel, Thisted jule bock 50-75 cl Ex. pant",
+      "normalized_name": "GB jul, Thisted jule dubbel, Thisted jule bock 50-75 cl Ex. pant",
+      "price": 20.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 26.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Carlsberg 1883, Carlsberg pilsner, Tuborg julebryg, Carlsberg Nordic 0.0% eller Brewmasters IPA 33 cl. Ex. pant",
+      "normalized_name": "Carlsberg 1883, Carlsberg pilsner, Tuborg julebryg, Carlsberg Nordic 0.0% eller Brewmasters IPA 33 cl. Ex. pant",
+      "price": 4.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 12.12,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Thisted eller Skanderborg Bryghus Hytte hygge, Stjerneklar alkoholfri, Jule mule, JuleSne, JuleElg eller JuleBuk 50 cl. Ex. pant",
+      "normalized_name": "Thisted eller Skanderborg Bryghus Hytte hygge, Stjerneklar alkoholfri, Jule mule, JuleSne, JuleElg eller JuleBuk 50 cl. Ex. pant",
+      "price": 10.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Easis bar 28-30 g",
+      "normalized_name": "Easis bar 28-30 g",
+      "price": 8.0,
+      "quantity": "30 g",
+      "unit_type": "g",
+      "price_per_unit": 266.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Easis eller Werther's sukkerfri slik 60-75 g",
+      "normalized_name": "Easis eller Werther's sukkerfri slik 60-75 g",
+      "price": 20.0,
+      "quantity": "75 g",
+      "unit_type": "g",
+      "price_per_unit": 266.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Evers sukkerfri slik Flere varianter 70 g",
+      "normalized_name": "Evers sukkerfri slik Flere varianter 70 g",
+      "price": 12.0,
+      "quantity": "70 g",
+      "unit_type": "g",
+      "price_per_unit": 171.43,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Odense marcipan eller Salinas poser Uden tilsat sukker 65-150 g",
+      "normalized_name": "Odense marcipan eller Salinas poser Uden tilsat sukker 65-150 g",
+      "price": 25.0,
+      "quantity": "150 g",
+      "unit_type": "g",
+      "price_per_unit": 166.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Easis is Flere varianter 252-750 ml",
+      "normalized_name": "Easis is Flere varianter 252-750 ml",
+      "price": 25.0,
+      "quantity": "750 ml",
+      "unit_type": "ml",
+      "price_per_unit": 33.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 danske havregryn Fin- eller grovvalsede 1 kg",
+      "normalized_name": "REMA 1000 danske havregryn Fin- eller grovvalsede 1 kg",
+      "price": 8.0,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 8.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Ready to go måltidssalater Sprød kålsalat med cajun kylling eller proteinsalat med hønsekød 200-230 g",
+      "normalized_name": "Ready to go måltidssalater Sprød kålsalat med cajun kylling eller proteinsalat med hønsekød 200-230 g",
+      "price": 15.0,
+      "quantity": "230 g",
+      "unit_type": "g",
+      "price_per_unit": 65.22,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hatting fuldkorn burger bun eller Kohberg økologisk fuldkornsburger 240-320 g",
+      "normalized_name": "Hatting fuldkorn burger bun eller Kohberg økologisk fuldkornsburger 240-320 g",
+      "price": 14.0,
+      "quantity": "320 g",
+      "unit_type": "g",
+      "price_per_unit": 43.75,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Valsemøllen mel eller kerner 1 kg",
+      "normalized_name": "Valsemøllen mel eller kerner 1 kg",
+      "price": 8.0,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 8.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Simple life nødder eller kerner 70-155 g",
+      "normalized_name": "Simple life nødder eller kerner 70-155 g",
+      "price": 20.0,
+      "quantity": "155 g",
+      "unit_type": "g",
+      "price_per_unit": 129.03,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Gram Slot økologisk fuldkorns hvede- eller rugmel 1 kg",
+      "normalized_name": "Gram Slot økologisk fuldkorns hvede- eller rugmel 1 kg",
+      "price": 16.0,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Gram Slot økologisk rødkål 370 g",
+      "normalized_name": "Gram Slot økologisk rødkål 370 g",
+      "price": 12.0,
+      "quantity": "370 g",
+      "unit_type": "g",
+      "price_per_unit": 32.43,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Gram Slot økologiske havrekager 150 g",
+      "normalized_name": "Gram Slot økologiske havrekager 150 g",
+      "price": 20.0,
+      "quantity": "150 g",
+      "unit_type": "g",
+      "price_per_unit": 133.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Gram Slot økologiske boller eller rugbrød 375-600 g",
+      "normalized_name": "Gram Slot økologiske boller eller rugbrød 375-600 g",
+      "price": 12.0,
+      "quantity": "600 g",
+      "unit_type": "g",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Gram Slot økologisk pilsner eller classic 50 cl. Ex. pant",
+      "normalized_name": "Gram Slot økologisk pilsner eller classic 50 cl. Ex. pant",
+      "price": 12.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 24.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Bagekartofler Danske 1.5 kg",
+      "normalized_name": "Bagekartofler Danske 1.5 kg",
+      "price": 12.0,
+      "quantity": "1.5 kg",
+      "unit_type": "kg",
+      "price_per_unit": 8.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Gluten hvedemel 2 kg",
+      "normalized_name": "Gluten hvedemel 2 kg",
+      "price": 17.0,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 8.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Økologiske æg Str. M/L 10 stk",
+      "normalized_name": "Økologiske æg Str. M/L 10 stk",
+      "price": 30.0,
+      "quantity": "10 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Økologisk dansk timian Pr. stk.",
+      "normalized_name": "Økologisk dansk timian Pr. stk.",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "DAVA rapsolie spray 200 ml",
+      "normalized_name": "DAVA rapsolie spray 200 ml",
+      "price": 25.0,
+      "quantity": "200 ml",
+      "unit_type": "ml",
+      "price_per_unit": 125.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Pudderdåserne parfumefri Alt i en sæbe, deocreme roll-on, hårlak, deospray eller tørshampoo",
+      "normalized_name": "Pudderdåserne parfumefri Alt i en sæbe, deocreme roll-on, hårlak, deospray eller tørshampoo",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Livol kosttilskud eller Futura kalk + ekstra D vitamin 150-350 stk.",
+      "normalized_name": "Livol kosttilskud eller Futura kalk + ekstra D vitamin 150-350 stk.",
+      "price": 79.0,
+      "quantity": "350 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.23,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Jordan green clean tandbørste eller flosser med 6 refiller 1-6 stk.",
+      "normalized_name": "Jordan green clean tandbørste eller flosser med 6 refiller 1-6 stk.",
+      "price": 18.0,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Derma deo roll-on, shampoo, balsam, shower gel, bodylotion, hand cream, face cream, makeup remover, face wash eller 2-pak læbepomade 50-500 ml",
+      "normalized_name": "Derma deo roll-on, shampoo, balsam, shower gel, bodylotion, hand cream, face cream, makeup remover, face wash eller 2-pak læbepomade 50-500 ml",
+      "price": 22.0,
+      "quantity": "500 ml",
+      "unit_type": "ml",
+      "price_per_unit": 44.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 parfumefri flydende håndsæbe refill, panthenolcreme, fedtcreme, hårvoks soft eller baby badeolie 100-1000 ml",
+      "normalized_name": "REMA 1000 parfumefri flydende håndsæbe refill, panthenolcreme, fedtcreme, hårvoks soft eller baby badeolie 100-1000 ml",
+      "price": 15.0,
+      "quantity": "1000 ml",
+      "unit_type": "ml",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "REMA 1000 bleer",
+      "normalized_name": "REMA 1000 bleer",
+      "price": 54.0,
+      "quantity": "9 kg",
+      "unit_type": "kg",
+      "price_per_unit": 6.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 parfumefri vådservietter 100 stk",
+      "normalized_name": "REMA 1000 parfumefri vådservietter 100 stk",
+      "price": 10.0,
+      "quantity": "100 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.1,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bjørnekram sutter Latex eller silikone",
+      "normalized_name": "Bjørnekram sutter Latex eller silikone",
+      "price": 39.0,
+      "quantity": "3 stk",
+      "unit_type": "stk",
+      "price_per_unit": 13.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LoveMade økologisk børnemad Flere varianter Fra 6 måneder+ 185 g",
+      "normalized_name": "LoveMade økologisk børnemad Flere varianter Fra 6 måneder+ 185 g",
+      "price": 12.0,
+      "quantity": "185 g",
+      "unit_type": "g",
+      "price_per_unit": 64.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "REMA 1000 natbleer til piger eller drenge 10 stk. str. S, 3-7 år 9 stk. str. M, 8-15 år",
+      "normalized_name": "REMA 1000 natbleer til piger eller drenge 10 stk. str. S, 3-7 år 9 stk. str. M, 8-15 år",
+      "price": 35.0,
+      "quantity": "10 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Join rengøring, badspray, wc rens, opvask eller opvaske spray 500-1000 ml.",
+      "normalized_name": "Join rengøring, badspray, wc rens, opvask eller opvaske spray 500-1000 ml.",
+      "price": 10.0,
+      "quantity": "1000 ml",
+      "unit_type": "ml",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 skyllemiddel Frisk duft 1 liter 50 vaske",
+      "normalized_name": "REMA 1000 skyllemiddel Frisk duft 1 liter 50 vaske",
+      "price": 5.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 5.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "REMA 1000 parfumefri alt-i-én maskinopvask Flydende gel 650 ml",
+      "normalized_name": "REMA 1000 parfumefri alt-i-én maskinopvask Flydende gel 650 ml",
+      "price": 30.0,
+      "quantity": "650 ml",
+      "unit_type": "ml",
+      "price_per_unit": 46.15,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 parfumefri kulørt, hvid, sort, sport eller uld & finvask 1 liter/18-33 vaske",
+      "normalized_name": "REMA 1000 parfumefri kulørt, hvid, sort, sport eller uld & finvask 1 liter/18-33 vaske",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "REMA 1000 parfumefri opvask refill 1 liter",
+      "normalized_name": "REMA 1000 parfumefri opvask refill 1 liter",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julepyjamas til børn eller voksne",
+      "normalized_name": "Julepyjamas til børn eller voksne",
+      "price": 89.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hue i strik med julemotiv, julehyggesokker str. 23-46, strømper med julemotiv eller hjemmesko med julemotiv str. 32-45",
+      "normalized_name": "Hue i strik med julemotiv, julehyggesokker str. 23-46, strømper med julemotiv eller hjemmesko med julemotiv str. 32-45",
+      "price": 29.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 29.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Herre juleskjorte i bomuld Str. M-XXL",
+      "normalized_name": "Herre juleskjorte i bomuld Str. M-XXL",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Strømpebuks med mønster Flere designs Str. S-XL",
+      "normalized_name": "Strømpebuks med mønster Flere designs Str. S-XL",
+      "price": 39.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "PU nederdel eller bluse med 3/4 ærmer og palietter Str. S-XL",
+      "normalized_name": "PU nederdel eller bluse med 3/4 ærmer og palietter Str. S-XL",
+      "price": 149.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Julestrømper til børn Flere designs Str. 23-38 Pr. par",
+      "normalized_name": "Julestrømper til børn Flere designs Str. 23-38 Pr. par",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Spiral tegnesæt, huskespil, vandfarvebog med pensler, licens vandmalebog, dukke med dyreudklædning, børnebøger eller Vini spil",
+      "normalized_name": "Spiral tegnesæt, huskespil, vandfarvebog med pensler, licens vandmalebog, dukke med dyreudklædning, børnebøger eller Vini spil",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Stempler med motiver, Teenie singles, Nice ice baby, marmorkugler, Axolotl squeeze, UV pen, Puffy stickers, skrabeark, perler i bæger eller racerbiler Frit valg",
+      "normalized_name": "Stempler med motiver, Teenie singles, Nice ice baby, marmorkugler, Axolotl squeeze, UV pen, Puffy stickers, skrabeark, perler i bæger eller racerbiler Frit valg",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fashion malebøger, puslespilsbog, speedcar monstertruck, speedcar shark truck, puslespil eller Vini knoppuslespil Frit valg",
+      "normalized_name": "Fashion malebøger, puslespilsbog, speedcar monstertruck, speedcar shark truck, puslespil eller Vini knoppuslespil Frit valg",
+      "price": 40.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Cozy malebog, licens crystal art, licens aktivitetsbog, mode design blyanter, dekorér din egen natlampe, LCD tegnetavle 27 cm, dyr i taske, megastickers, Dantoy kaffe-, te-, cupcake- eller bagesæt",
+      "normalized_name": "Cozy malebog, licens crystal art, licens aktivitetsbog, mode design blyanter, dekorér din egen natlampe, LCD tegnetavle 27 cm, dyr i taske, megastickers, Dantoy kaffe-, te-, cupcake- eller bagesæt",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Modellerfabrik, modellervoks, dyr i pose 9-12 stk., spil eller pustetusser med skabeloner Frit valg",
+      "normalized_name": "Modellerfabrik, modellervoks, dyr i pose 9-12 stk., spil eller pustetusser med skabeloner Frit valg",
+      "price": 59.0,
+      "quantity": "12 stk",
+      "unit_type": "stk",
+      "price_per_unit": 4.92,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Hårbånd, sovemaske, håndsæbe, nøglering med minihårbørste, håndcreme/neglefil-sæt eller plyshårbøjle/håndledsbånd-sæt Frit valg",
+      "normalized_name": "Hårbånd, sovemaske, håndsæbe, nøglering med minihårbørste, håndcreme/neglefil-sæt eller plyshårbøjle/håndledsbånd-sæt Frit valg",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Vini fiskespil, papbøger med lyd eller fjernstyret bil Frit valg",
+      "normalized_name": "Vini fiskespil, papbøger med lyd eller fjernstyret bil Frit valg",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bøger med lyde, 24-pak 2i1 tusser, aktivitetsbøger, Dantoy hamrebrædt/ putteboks, Sebastian Klein, Sallys far, læsebøger eller godnathistorier Frit valg.",
+      "normalized_name": "Bøger med lyde, 24-pak 2i1 tusser, aktivitetsbøger, Dantoy hamrebrædt/ putteboks, Sebastian Klein, Sallys far, læsebøger eller godnathistorier Frit valg.",
+      "price": 69.0,
+      "quantity": "24 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.88,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "6-pak store tusser eller 15-pak stempelsæt Frit valg",
+      "normalized_name": "6-pak store tusser eller 15-pak stempelsæt Frit valg",
+      "price": 25.0,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 4.17,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "De små synger bog med musik, De små synger kortkuffert, Min lille kuffert, Dantoy Funcar politistation, bilvask eller digitalkamera Frit valg",
+      "normalized_name": "De små synger bog med musik, De små synger kortkuffert, Min lille kuffert, Dantoy Funcar politistation, bilvask eller digitalkamera Frit valg",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Den store Totte og Lotte bog",
+      "normalized_name": "Den store Totte og Lotte bog",
+      "price": 149.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BKI Extra eller guld 350-400 g",
+      "normalized_name": "BKI Extra eller guld 350-400 g",
+      "price": 45.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 112.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "REMA 1000 kød & melboller, melboller eller kødboller Dybfrost 800-1000 g",
+      "normalized_name": "REMA 1000 kød & melboller, melboller eller kødboller Dybfrost 800-1000 g",
+      "price": 30.0,
+      "quantity": "1000 g",
+      "unit_type": "g",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Kims chips eller snacks 140-170 g",
+      "normalized_name": "Kims chips eller snacks 140-170 g",
+      "price": 12.0,
+      "quantity": "170 g",
+      "unit_type": "g",
+      "price_per_unit": 70.59,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Appelsiner Kl. l, udenlandske 2 kg",
+      "normalized_name": "Appelsiner Kl. l, udenlandske 2 kg",
+      "price": 14.0,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 7.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Hyacinter 5 stk. løg pr. potte",
+      "normalized_name": "Hyacinter 5 stk. løg pr. potte",
+      "price": 29.0,
+      "quantity": "5 stk",
+      "unit_type": "stk",
+      "price_per_unit": 5.8,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Planter til udendørs krukker Julerose, Vindheks eller Skimmia",
+      "normalized_name": "Planter til udendørs krukker Julerose, Vindheks eller Skimmia",
+      "price": 39.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Tulip spareribs, pulled pork, pulled chicken taco eller 5-pak bacon",
+      "normalized_name": "Tulip spareribs, pulled pork, pulled chicken taco eller 5-pak bacon",
+      "price": 39.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 78.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Karen Volf æbleskiver Dybfrost 504 g",
+      "normalized_name": "Karen Volf æbleskiver Dybfrost 504 g",
+      "price": 18.0,
+      "quantity": "504 g",
+      "unit_type": "g",
+      "price_per_unit": 35.71,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Pepsi Max, Faxe Kondi, Faxe Kondi 0 kcal eller Faxe Kondi appelsin 0 kcal 33 cl. Ex. pant",
+      "normalized_name": "Pepsi Max, Faxe Kondi, Faxe Kondi 0 kcal eller Faxe Kondi appelsin 0 kcal 33 cl. Ex. pant",
+      "price": 3.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 9.09,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Doritos 170 g",
+      "normalized_name": "Doritos 170 g",
+      "price": 12.0,
+      "quantity": "170 g",
+      "unit_type": "g",
+      "price_per_unit": 70.59,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk kalvespidsbryst, kalvegrydesteg af tykkam eller bov 800-1200 g",
+      "normalized_name": "Dansk kalvespidsbryst, kalvegrydesteg af tykkam eller bov 800-1200 g",
+      "price": 139.0,
+      "quantity": "1200 g",
+      "unit_type": "g",
+      "price_per_unit": 115.83,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Marabou 87-100 g",
+      "normalized_name": "Marabou 87-100 g",
+      "price": 15.0,
+      "quantity": "100 g",
+      "unit_type": "g",
+      "price_per_unit": 150.0,
+      "is_app_price": false
+    }
+  ]
+}

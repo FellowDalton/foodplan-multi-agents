@@ -1,0 +1,2119 @@
+{
+  "store_name": "Netto",
+  "scraped_at": "2025-11-07T21:59:19.470524",
+  "valid_from": "2025-11-08",
+  "valid_to": "2025-11-15",
+  "week_number": 45,
+  "deals": [
+    {
+      "category": "Coffee & Tea",
+      "original_name": "AMA fedtstof",
+      "normalized_name": "AMA fedtstof",
+      "price": 10.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Løse bananer",
+      "normalized_name": "Løse bananer",
+      "price": 1.5,
+      "quantity": "30 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.05,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "La Campagna udenlandske specialiteter",
+      "normalized_name": "La Campagna udenlandske specialiteter",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Buko smelteost",
+      "normalized_name": "Buko smelteost",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Marabou plader",
+      "normalized_name": "Marabou plader",
+      "price": 22.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 22.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Maoam eller Haribo slikpose",
+      "normalized_name": "Maoam eller Haribo slikpose",
+      "price": 9.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 9.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Bistronne kyllingemarked",
+      "normalized_name": "Bistronne kyllingemarked",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Gravad, kold- eller varmrøget laks",
+      "normalized_name": "Gravad, kold- eller varmrøget laks",
+      "price": 19.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 19.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Lambi Classic toiletpapir eller køkkenrulle",
+      "normalized_name": "Lambi Classic toiletpapir eller køkkenrulle",
+      "price": 19.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 19.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Dunlet eller A+",
+      "normalized_name": "Dunlet eller A+",
+      "price": 25.0,
+      "quantity": "675 ml",
+      "unit_type": "ml",
+      "price_per_unit": 37.04,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Taffel chips",
+      "normalized_name": "Taffel chips",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Faxe Kondi eller Pepsi Max sodavand",
+      "normalized_name": "Faxe Kondi eller Pepsi Max sodavand",
+      "price": 69.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 209.09,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Spiritusmarked",
+      "normalized_name": "Spiritusmarked",
+      "price": 89.0,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 127.14,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bio Logico Bag-in-Box",
+      "normalized_name": "Bio Logico Bag-in-Box",
+      "price": 80.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 80.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SPIR plantedrik",
+      "normalized_name": "SPIR plantedrik",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Spreads & Butter",
+      "original_name": "Kærgården original eller let",
+      "normalized_name": "Kærgården original eller let",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Merrild, Lavazza, Peter Larsen, Café Noir eller Gevalia formalet kaffe",
+      "normalized_name": "Merrild, Lavazza, Peter Larsen, Café Noir eller Gevalia formalet kaffe",
+      "price": 55.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 55.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Mou specialsuppe",
+      "normalized_name": "Mou specialsuppe",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Premieur stenovnsbagt baguette",
+      "normalized_name": "Premieur stenovnsbagt baguette",
+      "price": 14.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 14.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Egelykke fraiche 9%",
+      "normalized_name": "Egelykke fraiche 9%",
+      "price": 16.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Mou tomatsuppe",
+      "normalized_name": "Mou tomatsuppe",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Kohberg Bagerens bedste rugbrød",
+      "normalized_name": "Kohberg Bagerens bedste rugbrød",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "Salatmesteren remoulade",
+      "normalized_name": "Salatmesteren remoulade",
+      "price": 11.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 11.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Rahbek fiskefileter",
+      "normalized_name": "Rahbek fiskefileter",
+      "price": 29.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 29.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Harvest Best fine ærter",
+      "normalized_name": "Harvest Best fine ærter",
+      "price": 14.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 14.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Peka flødekartofler",
+      "normalized_name": "Peka flødekartofler",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag danske nakkekoteletter",
+      "normalized_name": "Velsmag danske nakkekoteletter",
+      "price": 55.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 55.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Cocktailtomater",
+      "normalized_name": "Cocktailtomater",
+      "price": 18.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 36.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Mango",
+      "normalized_name": "Mango",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Deglet Nour dadler",
+      "normalized_name": "Deglet Nour dadler",
+      "price": 10.0,
+      "quantity": "160 g",
+      "unit_type": "g",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Appelsiner",
+      "normalized_name": "Appelsiner",
+      "price": 18.0,
+      "quantity": "1.5 kg",
+      "unit_type": "kg",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Figner med mel",
+      "normalized_name": "Figner med mel",
+      "price": 25.0,
+      "quantity": "450 g",
+      "unit_type": "g",
+      "price_per_unit": 55.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Danske porrer",
+      "normalized_name": "Danske porrer",
+      "price": 10.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 5.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag røget hamburgerryg eller bacon",
+      "normalized_name": "Velsmag røget hamburgerryg eller bacon",
+      "price": 27.95,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 13.97,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Velsmag lakse- eller rødspættefileter",
+      "normalized_name": "Velsmag lakse- eller rødspættefileter",
+      "price": 39.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag dansk nakkefilet",
+      "normalized_name": "Velsmag dansk nakkefilet",
+      "price": 24.95,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 12.47,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Iberico secreto af gris",
+      "normalized_name": "Iberico secreto af gris",
+      "price": 49.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Gyros eller Velsmag dansk hakket grisekød 8-12%",
+      "normalized_name": "Gyros eller Velsmag dansk hakket grisekød 8-12%",
+      "price": 29.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 29.0,
+      "is_app_price": true
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag okseculotte",
+      "normalized_name": "Velsmag okseculotte",
+      "price": 74.95,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 37.48,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk hakket kyllingekød 7-10% eller dansk kyllingeinderfilet",
+      "normalized_name": "Dansk hakket kyllingekød 7-10% eller dansk kyllingeinderfilet",
+      "price": 39.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag marineret tykstegsbøf eller dansk flæsk i skiver",
+      "normalized_name": "Velsmag marineret tykstegsbøf eller dansk flæsk i skiver",
+      "price": 18.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 18.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Danske kyllingeoverlår eller -underlår",
+      "normalized_name": "Danske kyllingeoverlår eller -underlår",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Velsmag hakket oksekød 7-10% eller dansk hakket grise- og kalvekød 4-7%",
+      "normalized_name": "Velsmag hakket oksekød 7-10% eller dansk hakket grise- og kalvekød 4-7%",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Dansk kyllingebrystfilet af landkylling",
+      "normalized_name": "Dansk kyllingebrystfilet af landkylling",
+      "price": 60.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Athena laktosefri feta",
+      "normalized_name": "Athena laktosefri feta",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Laktosefri mozzarella",
+      "normalized_name": "Laktosefri mozzarella",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Egelykke drikkeyoghurt",
+      "normalized_name": "Egelykke drikkeyoghurt",
+      "price": 5.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 5.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Arla Protein food to go drik",
+      "normalized_name": "Arla Protein food to go drik",
+      "price": 20.0,
+      "quantity": "500 ml",
+      "unit_type": "ml",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Athena græsk yoghurt",
+      "normalized_name": "Athena græsk yoghurt",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Arla Protein mousse",
+      "normalized_name": "Arla Protein mousse",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Kinder mælkesnitte eller Pingui",
+      "normalized_name": "Kinder mælkesnitte eller Pingui",
+      "price": 36.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 36.0,
+      "is_app_price": true
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Actimel 8-pak",
+      "normalized_name": "Actimel 8-pak",
+      "price": 20.0,
+      "quantity": "100 ml",
+      "unit_type": "ml",
+      "price_per_unit": 200.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Grønnelund skæreost",
+      "normalized_name": "Grønnelund skæreost",
+      "price": 95.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 95.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "ØGO økologiske æg",
+      "normalized_name": "ØGO økologiske æg",
+      "price": 26.0,
+      "quantity": "10 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Puck ost",
+      "normalized_name": "Puck ost",
+      "price": 17.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 17.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Philadelphia",
+      "normalized_name": "Philadelphia",
+      "price": 22.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 22.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Skagen fiskefrikadeller eller Glyngøre sild",
+      "normalized_name": "Skagen fiskefrikadeller eller Glyngøre sild",
+      "price": 26.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 26.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "Tjia hytteostsalat",
+      "normalized_name": "Tjia hytteostsalat",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Den Grønne Slagter pålæg eller kalkunbacon",
+      "normalized_name": "Den Grønne Slagter pålæg eller kalkunbacon",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Kohberg brød",
+      "normalized_name": "Kohberg brød",
+      "price": 15.0,
+      "quantity": "750 g",
+      "unit_type": "g",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "Egelykke spegepølse",
+      "normalized_name": "Egelykke spegepølse",
+      "price": 10.0,
+      "quantity": "100 g",
+      "unit_type": "g",
+      "price_per_unit": 100.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "ØGO økologisk friland kyllingeleverpostej eller leverpostej",
+      "normalized_name": "ØGO økologisk friland kyllingeleverpostej eller leverpostej",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "Steff Houlberg pølser",
+      "normalized_name": "Steff Houlberg pølser",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Løgismose sauce",
+      "normalized_name": "Løgismose sauce",
+      "price": 19.0,
+      "quantity": "250 g",
+      "unit_type": "g",
+      "price_per_unit": 76.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Egelykke bacon i skiver",
+      "normalized_name": "Egelykke bacon i skiver",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Løgismose suppe",
+      "normalized_name": "Løgismose suppe",
+      "price": 29.0,
+      "quantity": "350 g",
+      "unit_type": "g",
+      "price_per_unit": 82.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Jensens BBQ",
+      "normalized_name": "Jensens BBQ",
+      "price": 39.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 78.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Plant-Based",
+      "original_name": "Naturli' færdigret",
+      "normalized_name": "Naturli' færdigret",
+      "price": 55.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 55.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur nemme kartofler",
+      "normalized_name": "Premieur nemme kartofler",
+      "price": 16.0,
+      "quantity": "700 g",
+      "unit_type": "g",
+      "price_per_unit": 22.86,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur dansk krogmodnet flæskesteg",
+      "normalized_name": "Premieur dansk krogmodnet flæskesteg",
+      "price": 59.95,
+      "quantity": "2 kg",
+      "unit_type": "kg",
+      "price_per_unit": 29.98,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur fritgående and",
+      "normalized_name": "Premieur fritgående and",
+      "price": 119.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Premieur paté eller rillette",
+      "normalized_name": "Premieur paté eller rillette",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur berberi andebryst",
+      "normalized_name": "Premieur berberi andebryst",
+      "price": 49.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Premieur chokolade",
+      "normalized_name": "Premieur chokolade",
+      "price": 45.0,
+      "quantity": "75 g",
+      "unit_type": "g",
+      "price_per_unit": 600.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Premieur røget eller gravad laks",
+      "normalized_name": "Premieur røget eller gravad laks",
+      "price": 35.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 35.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Premieur Dubai style kugler",
+      "normalized_name": "Premieur Dubai style kugler",
+      "price": 45.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 45.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur grønlandske rejer",
+      "normalized_name": "Premieur grønlandske rejer",
+      "price": 55.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 55.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Premieur saltede og brændte blandede nødder",
+      "normalized_name": "Premieur saltede og brændte blandede nødder",
+      "price": 35.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 35.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "ØGO økologisk marmelade",
+      "normalized_name": "ØGO økologisk marmelade",
+      "price": 16.0,
+      "quantity": "275 g",
+      "unit_type": "g",
+      "price_per_unit": 58.18,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "ØGO økologiske æbleskiver",
+      "normalized_name": "ØGO økologiske æbleskiver",
+      "price": 22.0,
+      "quantity": "504 g",
+      "unit_type": "g",
+      "price_per_unit": 43.65,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ØGO økologisk risengrød",
+      "normalized_name": "ØGO økologisk risengrød",
+      "price": 22.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 22.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Blossa gløgg",
+      "normalized_name": "Blossa gløgg",
+      "price": 55.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 55.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Beverages",
+      "original_name": "Curré gløggmix",
+      "normalized_name": "Curré gløggmix",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ØGO økologisk kanel",
+      "normalized_name": "ØGO økologisk kanel",
+      "price": 12.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "ØGO økologiske danske skiveskårne champignon",
+      "normalized_name": "ØGO økologiske danske skiveskårne champignon",
+      "price": 4.9,
+      "quantity": "100 g",
+      "unit_type": "g",
+      "price_per_unit": 49.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "ØGO økologiske mandler",
+      "normalized_name": "ØGO økologiske mandler",
+      "price": 20.9,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.48,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "ØGO økologisk passata",
+      "normalized_name": "ØGO økologisk passata",
+      "price": 11.78,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.96,
+      "is_app_price": false
+    },
+    {
+      "category": "Pasta & International",
+      "original_name": "ØGO økologisk fuldkornspasta",
+      "normalized_name": "ØGO økologisk fuldkornspasta",
+      "price": 8.36,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.39,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Amper Energy",
+      "normalized_name": "Amper Energy",
+      "price": 2.0,
+      "quantity": "25 cl",
+      "unit_type": "cl",
+      "price_per_unit": 8.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Granatæble",
+      "normalized_name": "Granatæble",
+      "price": 6.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 6.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Hellmann's mayonnaise",
+      "normalized_name": "Hellmann's mayonnaise",
+      "price": 8.97,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Snickers isbar 6-pak",
+      "normalized_name": "Snickers isbar 6-pak",
+      "price": 29.47,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 4.91,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Magnum is 3-pak",
+      "normalized_name": "Magnum is 3-pak",
+      "price": 25.0,
+      "quantity": "3 stk",
+      "unit_type": "stk",
+      "price_per_unit": 8.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Protein Lab færdigret",
+      "normalized_name": "Protein Lab færdigret",
+      "price": 35.0,
+      "quantity": "370 g",
+      "unit_type": "g",
+      "price_per_unit": 94.59,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Næmt tø og server",
+      "normalized_name": "Næmt tø og server",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Dr. Oetker tradizionale pizza",
+      "normalized_name": "Dr. Oetker tradizionale pizza",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Sereno nøddebøtter",
+      "normalized_name": "Sereno nøddebøtter",
+      "price": 13.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 13.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Amo hvedemel",
+      "normalized_name": "Amo hvedemel",
+      "price": 16.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Lay’s eller Bugles chips",
+      "normalized_name": "Lay’s eller Bugles chips",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "Knorr sauce 3-pak",
+      "normalized_name": "Knorr sauce 3-pak",
+      "price": 10.0,
+      "quantity": "3 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Kellogg's granola",
+      "normalized_name": "Kellogg's granola",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "True dates",
+      "normalized_name": "True dates",
+      "price": 14.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 14.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Spangsberg flødeboller 4-pak",
+      "normalized_name": "Spangsberg flødeboller 4-pak",
+      "price": 30.0,
+      "quantity": "124 g",
+      "unit_type": "g",
+      "price_per_unit": 241.94,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Sunshine Delight fruit fusion",
+      "normalized_name": "Sunshine Delight fruit fusion",
+      "price": 18.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 18.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Spangsberg gaveæske",
+      "normalized_name": "Spangsberg gaveæske",
+      "price": 70.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 70.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Pukka økologiske tebreve",
+      "normalized_name": "Pukka økologiske tebreve",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Gevalia eller Café Noir instant kaffe",
+      "normalized_name": "Gevalia eller Café Noir instant kaffe",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fredsted chai latte",
+      "normalized_name": "Fredsted chai latte",
+      "price": 20.0,
+      "quantity": "8 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "Galbusera kiks eller knækbrød",
+      "normalized_name": "Galbusera kiks eller knækbrød",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Finton's cookies",
+      "normalized_name": "Finton's cookies",
+      "price": 16.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Il Capolavoro Zinfandel",
+      "normalized_name": "Il Capolavoro Zinfandel",
+      "price": 49.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 65.33,
+      "is_app_price": true
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Trapiche Oak Cask Malbec eller Frida Kahlo Bag-in-Box",
+      "normalized_name": "Trapiche Oak Cask Malbec eller Frida Kahlo Bag-in-Box",
+      "price": 59.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 59.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Il Capolavoro Appassimento, Jean Marie Garnier eller Orso D'oro",
+      "normalized_name": "Il Capolavoro Appassimento, Jean Marie Garnier eller Orso D'oro",
+      "price": 49.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 65.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Tuborg Julebryg",
+      "normalized_name": "Tuborg Julebryg",
+      "price": 80.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 242.42,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Red Bull",
+      "normalized_name": "Red Bull",
+      "price": 12.0,
+      "quantity": "25 cl",
+      "unit_type": "cl",
+      "price_per_unit": 48.0,
+      "is_app_price": true
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Pepsi sodavand",
+      "normalized_name": "Pepsi sodavand",
+      "price": 15.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 45.45,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Coca-Cola sodavand",
+      "normalized_name": "Coca-Cola sodavand",
+      "price": 16.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Nobe eller Vitamin Well",
+      "normalized_name": "Nobe eller Vitamin Well",
+      "price": 12.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 24.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Breezer, Somersby eller Stella Artois",
+      "normalized_name": "Breezer, Somersby eller Stella Artois",
+      "price": 12.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 36.36,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Jacobsen, Leffe eller Grimbergen øl",
+      "normalized_name": "Jacobsen, Leffe eller Grimbergen øl",
+      "price": 26.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 34.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Hello Sensitive eller Shine rengøringsservietter",
+      "normalized_name": "Hello Sensitive eller Shine rengøringsservietter",
+      "price": 11.0,
+      "quantity": "48 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.23,
+      "is_app_price": true
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Nutramino bar",
+      "normalized_name": "Nutramino bar",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Neophos opvasketabs",
+      "normalized_name": "Neophos opvasketabs",
+      "price": 79.0,
+      "quantity": "70 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.13,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Martinelia yummy gavesæt, Respons shampoo eller balsam",
+      "normalized_name": "Martinelia yummy gavesæt, Respons shampoo eller balsam",
+      "price": 25.0,
+      "quantity": "400 ml",
+      "unit_type": "ml",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Colgate mundpleje",
+      "normalized_name": "Colgate mundpleje",
+      "price": 39.0,
+      "quantity": "75 ml",
+      "unit_type": "ml",
+      "price_per_unit": 520.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Shine rengøringsspray",
+      "normalized_name": "Shine rengøringsspray",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hello Sensitive flydende vaskemiddel",
+      "normalized_name": "Hello Sensitive flydende vaskemiddel",
+      "price": 15.0,
+      "quantity": "750 ml",
+      "unit_type": "ml",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Savin flydende vaskemiddel",
+      "normalized_name": "Savin flydende vaskemiddel",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hello Sensitive all-in-one tabs",
+      "normalized_name": "Hello Sensitive all-in-one tabs",
+      "price": 26.0,
+      "quantity": "30 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.87,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Shine opvasketabs",
+      "normalized_name": "Shine opvasketabs",
+      "price": 26.0,
+      "quantity": "50 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.52,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Shine opvaskemiddel lemon",
+      "normalized_name": "Shine opvaskemiddel lemon",
+      "price": 8.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 8.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Hello Sensitive opvaskemiddel",
+      "normalized_name": "Hello Sensitive opvaskemiddel",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Murph proteinbar",
+      "normalized_name": "Murph proteinbar",
+      "price": 13.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 13.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Murph sport",
+      "normalized_name": "Murph sport",
+      "price": 5.0,
+      "quantity": "330 ml",
+      "unit_type": "ml",
+      "price_per_unit": 15.15,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Murph crisp proteinbar",
+      "normalized_name": "Murph crisp proteinbar",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Murph kreatinpulver",
+      "normalized_name": "Murph kreatinpulver",
+      "price": 75.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 75.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Murph Pre-workout",
+      "normalized_name": "Murph Pre-workout",
+      "price": 59.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 59.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "Murph whey proteinpulver",
+      "normalized_name": "Murph whey proteinpulver",
+      "price": 149.0,
+      "quantity": "1000 g",
+      "unit_type": "g",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Murph elektrolytter",
+      "normalized_name": "Murph elektrolytter",
+      "price": 16.0,
+      "quantity": "20 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.8,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Engel",
+      "normalized_name": "Engel",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Dekorationstallerken",
+      "normalized_name": "Dekorationstallerken",
+      "price": 40.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Kunstigt cedertræ",
+      "normalized_name": "Kunstigt cedertræ",
+      "price": 189.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 189.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "Frugtpynt",
+      "normalized_name": "Frugtpynt",
+      "price": 29.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 29.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Englespil",
+      "normalized_name": "Englespil",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Lanterne",
+      "normalized_name": "Lanterne",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fleecetæppe",
+      "normalized_name": "Fleecetæppe",
+      "price": 89.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Nisse",
+      "normalized_name": "Nisse",
+      "price": 89.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Juletræslys med LED",
+      "normalized_name": "Juletræslys med LED",
+      "price": 129.0,
+      "quantity": "10 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.9,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Juletræsfodsskjuler",
+      "normalized_name": "Juletræsfodsskjuler",
+      "price": 119.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Juletræstæppe",
+      "normalized_name": "Juletræstæppe",
+      "price": 149.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julekugler",
+      "normalized_name": "Julekugler",
+      "price": 25.0,
+      "quantity": "24 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.04,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Juletræslys",
+      "normalized_name": "Juletræslys",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Nisse",
+      "normalized_name": "Nisse",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julekugle med LED",
+      "normalized_name": "Julekugle med LED",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Juletræer med glimmer",
+      "normalized_name": "Juletræer med glimmer",
+      "price": 50.0,
+      "quantity": "3 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julebamse",
+      "normalized_name": "Julebamse",
+      "price": 119.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Halmbuk",
+      "normalized_name": "Halmbuk",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Lysbro",
+      "normalized_name": "Lysbro",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Glitterophæng",
+      "normalized_name": "Glitterophæng",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Lys i glas",
+      "normalized_name": "Lys i glas",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Lampelys",
+      "normalized_name": "Lampelys",
+      "price": 20.0,
+      "quantity": "8 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Udendørslys med print",
+      "normalized_name": "Udendørslys med print",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Bloklys med duft",
+      "normalized_name": "Bloklys med duft",
+      "price": 40.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Kronelys",
+      "normalized_name": "Kronelys",
+      "price": 69.0,
+      "quantity": "30 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.3,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bloklys",
+      "normalized_name": "Bloklys",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julepynt",
+      "normalized_name": "Julepynt",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Lyskæde med 10 LED",
+      "normalized_name": "Lyskæde med 10 LED",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Figur med LED",
+      "normalized_name": "Figur med LED",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Vokslys med LED",
+      "normalized_name": "Vokslys med LED",
+      "price": 40.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Lyskæde med stjerner",
+      "normalized_name": "Lyskæde med stjerner",
+      "price": 129.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 129.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Lyskæde med 12 stjerner",
+      "normalized_name": "Lyskæde med 12 stjerner",
+      "price": 229.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 229.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Juletræ med 500 LED",
+      "normalized_name": "Juletræ med 500 LED",
+      "price": 249.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 249.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bloklys med LED",
+      "normalized_name": "Bloklys med LED",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Servietter",
+      "normalized_name": "Servietter",
+      "price": 10.0,
+      "quantity": "20 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julepynt",
+      "normalized_name": "Julepynt",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julepynt",
+      "normalized_name": "Julepynt",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Pejs med LED",
+      "normalized_name": "Pejs med LED",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fleecetæppe",
+      "normalized_name": "Fleecetæppe",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Kurv",
+      "normalized_name": "Kurv",
+      "price": 40.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Voksdug",
+      "normalized_name": "Voksdug",
+      "price": 89.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Leggings",
+      "normalized_name": "Leggings",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Julehue med LED",
+      "normalized_name": "Julehue med LED",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Strikket julehue",
+      "normalized_name": "Strikket julehue",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hyggestrømper med kraftigt for",
+      "normalized_name": "Hyggestrømper med kraftigt for",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Hjemmesko",
+      "normalized_name": "Hjemmesko",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Øreringe eller hårpynt",
+      "normalized_name": "Øreringe eller hårpynt",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "The Grinch sweatshirt",
+      "normalized_name": "The Grinch sweatshirt",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Strømper med julemotiver",
+      "normalized_name": "Strømper med julemotiver",
+      "price": 20.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Bog",
+      "normalized_name": "Bog",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Aktivitetsbog",
+      "normalized_name": "Aktivitetsbog",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Beverages",
+      "original_name": "Bog",
+      "normalized_name": "Bog",
+      "price": 69.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Bog",
+      "normalized_name": "Bog",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Aromadiffuser",
+      "normalized_name": "Aromadiffuser",
+      "price": 149.0,
+      "quantity": "100 ml",
+      "unit_type": "ml",
+      "price_per_unit": 1490.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Aromavoksvarmer",
+      "normalized_name": "Aromavoksvarmer",
+      "price": 149.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Bordkalender 2026",
+      "normalized_name": "Bordkalender 2026",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Legetøj",
+      "normalized_name": "Legetøj",
+      "price": 20.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Mal-selv-julegave",
+      "normalized_name": "Mal-selv-julegave",
+      "price": 40.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "Magic Wand",
+      "normalized_name": "Magic Wand",
+      "price": 199.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 199.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Klippekort",
+      "normalized_name": "Klippekort",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Samtalekort",
+      "normalized_name": "Samtalekort",
+      "price": 79.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 79.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "Vibrerende æg",
+      "normalized_name": "Vibrerende æg",
+      "price": 99.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Kort med positioner",
+      "normalized_name": "Kort med positioner",
+      "price": 25.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Vibrator",
+      "normalized_name": "Vibrator",
+      "price": 189.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 189.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Love bullet",
+      "normalized_name": "Love bullet",
+      "price": 49.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "Silkepudebetræk",
+      "normalized_name": "Silkepudebetræk",
+      "price": 199.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 199.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Pyjamassæt",
+      "normalized_name": "Pyjamassæt",
+      "price": 129.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 129.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Satinsengetøj",
+      "normalized_name": "Satinsengetøj",
+      "price": 129.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 129.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Sovemaske",
+      "normalized_name": "Sovemaske",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "Glattejern",
+      "normalized_name": "Glattejern",
+      "price": 149.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "3-i-1 multihårstyler",
+      "normalized_name": "3-i-1 multihårstyler",
+      "price": 169.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 84.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Ansigtspude med silkebetræk",
+      "normalized_name": "Ansigtspude med silkebetræk",
+      "price": 199.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 199.0,
+      "is_app_price": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "5d1227a4-083d-43db-abb4-b337b7fad400",
+    "transcript_path": "/Users/dalton/.claude/projects/-Users-dalton-projects-claude-code-agents-wizard-v2/5d1227a4-083d-43db-abb4-b337b7fad400.jsonl",
+    "cwd": "/Users/dalton/projects/claude-code-agents-wizard-v2",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false
+  }
+]

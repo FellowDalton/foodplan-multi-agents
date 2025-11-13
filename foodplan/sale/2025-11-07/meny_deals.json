@@ -1,0 +1,1769 @@
+{
+  "store_name": "Meny",
+  "scraped_at": "2025-11-07T22:06:53.418484",
+  "valid_from": "2025-11-08",
+  "valid_to": "2025-11-14",
+  "week_number": 46,
+  "deals": [
+    {
+      "category": "Coffee & Tea",
+      "original_name": "TUBORG JULEBRYG, GRØN TUBORG, TUBORG CLASSIC ELLER CARLSBERG PILSNER",
+      "normalized_name": "TUBORG JULEBRYG, GRØN TUBORG, TUBORG CLASSIC ELLER CARLSBERG PILSNER",
+      "price": 99.95,
+      "quantity": "30 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "TYKSTEGSBØFFER ELLER TYKSTEGSMEDALJONER",
+      "normalized_name": "TYKSTEGSBØFFER ELLER TYKSTEGSMEDALJONER",
+      "price": 64.95,
+      "quantity": "350 g",
+      "unit_type": "g",
+      "price_per_unit": 185.57,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "COCA-COLA ELLER FANTA",
+      "normalized_name": "COCA-COLA ELLER FANTA",
+      "price": 65.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 65.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GRØN BALANCE ØKOLOGISKE APPELSINER ELLER KLEMENTINER",
+      "normalized_name": "GRØN BALANCE ØKOLOGISKE APPELSINER ELLER KLEMENTINER",
+      "price": 20.0,
+      "quantity": "1000 g",
+      "unit_type": "g",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "MERRILD ELLER LAVAZZA",
+      "normalized_name": "MERRILD ELLER LAVAZZA",
+      "price": 49.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 98.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "GESTUS RØGET LAKS I SKIVER",
+      "normalized_name": "GESTUS RØGET LAKS I SKIVER",
+      "price": 55.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 275.0,
+      "is_app_price": true
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "TOUCH OF TASTE FOND",
+      "normalized_name": "TOUCH OF TASTE FOND",
+      "price": 30.0,
+      "quantity": "180 ml",
+      "unit_type": "ml",
+      "price_per_unit": 166.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "OLE’S GÅRD ØKOLOGISK PIZZA",
+      "normalized_name": "OLE’S GÅRD ØKOLOGISK PIZZA",
+      "price": 65.0,
+      "quantity": "440 g",
+      "unit_type": "g",
+      "price_per_unit": 147.73,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "THE BOTANIST ISLAY DRY GIN",
+      "normalized_name": "THE BOTANIST ISLAY DRY GIN",
+      "price": 199.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 285.64,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LAVAZZA HELE BØNNER",
+      "normalized_name": "LAVAZZA HELE BØNNER",
+      "price": 74.95,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 149.9,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "TULIP BACON SPECIALITETER ELLER TOPPING",
+      "normalized_name": "TULIP BACON SPECIALITETER ELLER TOPPING",
+      "price": 18.0,
+      "quantity": "150 g",
+      "unit_type": "g",
+      "price_per_unit": 120.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "DEN GAMLE FABRIK MARMELADE ELLER RIBSGELÉ",
+      "normalized_name": "DEN GAMLE FABRIK MARMELADE ELLER RIBSGELÉ",
+      "price": 29.0,
+      "quantity": "425 g",
+      "unit_type": "g",
+      "price_per_unit": 68.24,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "RYNKEBY DRIK ELLER SHOT",
+      "normalized_name": "RYNKEBY DRIK ELLER SHOT",
+      "price": 28.0,
+      "quantity": "4 stk",
+      "unit_type": "stk",
+      "price_per_unit": 7.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "NEUTRAL VASK",
+      "normalized_name": "NEUTRAL VASK",
+      "price": 80.0,
+      "quantity": "4 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FERSK CANARD MARTÍN BERBERI ANDEBRYST MED SKIND",
+      "normalized_name": "FERSK CANARD MARTÍN BERBERI ANDEBRYST MED SKIND",
+      "price": 69.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FERSK JULIANE LANDAND",
+      "normalized_name": "FERSK JULIANE LANDAND",
+      "price": 39.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "JULIANE FRITGÅENDE AND",
+      "normalized_name": "JULIANE FRITGÅENDE AND",
+      "price": 139.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 139.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FERSK FRITGÅENDE BERBERIAND",
+      "normalized_name": "FERSK FRITGÅENDE BERBERIAND",
+      "price": 59.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 59.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "JULIANE FRITGÅENDE AND",
+      "normalized_name": "JULIANE FRITGÅENDE AND",
+      "price": 149.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "KIMS FRANSKE KARTOFLER ELLER MENY CHIPS",
+      "normalized_name": "KIMS FRANSKE KARTOFLER ELLER MENY CHIPS",
+      "price": 15.0,
+      "quantity": "170 g",
+      "unit_type": "g",
+      "price_per_unit": 88.24,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "CASALFORTE AMARONE ELLER CHÂTEAUNEUF DU PAPE VIGNERONS DE L’ENCLAVE",
+      "normalized_name": "CASALFORTE AMARONE ELLER CHÂTEAUNEUF DU PAPE VIGNERONS DE L’ENCLAVE",
+      "price": 149.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 199.93,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "PEKA BRUNEDE KARTOFLER",
+      "normalized_name": "PEKA BRUNEDE KARTOFLER",
+      "price": 20.0,
+      "quantity": "700 g",
+      "unit_type": "g",
+      "price_per_unit": 28.57,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "FAUSTINO GRAN RESERVA ELLER TOFTERUP YECLA BARREL SELECTION",
+      "normalized_name": "FAUSTINO GRAN RESERVA ELLER TOFTERUP YECLA BARREL SELECTION",
+      "price": 109.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 146.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "GESTUS KARTOFLER PÅ GLAS",
+      "normalized_name": "GESTUS KARTOFLER PÅ GLAS",
+      "price": 14.0,
+      "quantity": "680 g",
+      "unit_type": "g",
+      "price_per_unit": 20.59,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BEAUVAIS SURVARER, PREMIUM DRESSING ELLER BÄHNCKE SENNEP I GLAS",
+      "normalized_name": "BEAUVAIS SURVARER, PREMIUM DRESSING ELLER BÄHNCKE SENNEP I GLAS",
+      "price": 20.0,
+      "quantity": "580 g",
+      "unit_type": "g",
+      "price_per_unit": 34.48,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GRANATÆBLE KERNER ELLER TRANEBÆR",
+      "normalized_name": "GRANATÆBLE KERNER ELLER TRANEBÆR",
+      "price": 25.0,
+      "quantity": "250 g",
+      "unit_type": "g",
+      "price_per_unit": 100.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "MEDISTER AF DANSK FRILANDSGRIS",
+      "normalized_name": "MEDISTER AF DANSK FRILANDSGRIS",
+      "price": 135.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 337.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HAKKET GRISEKØD 8-12 % AF DANSK FRILANDSGRIS",
+      "normalized_name": "HAKKET GRISEKØD 8-12 % AF DANSK FRILANDSGRIS",
+      "price": 135.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 337.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HERREGÅRDSBØFFER AF DANSK OKSEKØD",
+      "normalized_name": "HERREGÅRDSBØFFER AF DANSK OKSEKØD",
+      "price": 135.0,
+      "quantity": "360 g",
+      "unit_type": "g",
+      "price_per_unit": 375.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "KOTELETTER AF DANSK GRIS",
+      "normalized_name": "KOTELETTER AF DANSK GRIS",
+      "price": 135.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 270.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HAKKET DANSK GRISEOG KALVEKØD 4-7 %",
+      "normalized_name": "HAKKET DANSK GRISEOG KALVEKØD 4-7 %",
+      "price": 135.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 270.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "NAKKEKOTELETTER AF DANSK GRIS",
+      "normalized_name": "NAKKEKOTELETTER AF DANSK GRIS",
+      "price": 135.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 337.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "RÅ RULLEPØLSE",
+      "normalized_name": "RÅ RULLEPØLSE",
+      "price": 49.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HAKKET OKSEKØD 7-10 %",
+      "normalized_name": "HAKKET OKSEKØD 7-10 %",
+      "price": 84.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 84.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FLÆSKESTEG AF DANSK GRIS",
+      "normalized_name": "FLÆSKESTEG AF DANSK GRIS",
+      "price": 24.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 24.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ARGENTINSK RIBEYE STEAK",
+      "normalized_name": "ARGENTINSK RIBEYE STEAK",
+      "price": 139.95,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 349.88,
+      "is_app_price": false
+    },
+    {
+      "category": "Seafood",
+      "original_name": "LAKSEFILET",
+      "normalized_name": "LAKSEFILET",
+      "price": 59.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 59.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FREYGAARD OKSEKLUMP",
+      "normalized_name": "FREYGAARD OKSEKLUMP",
+      "price": 69.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "OKSEHALER",
+      "normalized_name": "OKSEHALER",
+      "price": 69.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HIMMERLAND BRYSTFILET MED SKIND AF DANSK KYLLING",
+      "normalized_name": "HIMMERLAND BRYSTFILET MED SKIND AF DANSK KYLLING",
+      "price": 89.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HIMMERLAND HELE LÅR UDEN RYGBEN AF DANSK KYLLING",
+      "normalized_name": "HIMMERLAND HELE LÅR UDEN RYGBEN AF DANSK KYLLING",
+      "price": 49.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HIMMERLAND DANSK HEL KYLLING",
+      "normalized_name": "HIMMERLAND DANSK HEL KYLLING",
+      "price": 89.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "HIMMERLAND BRYSTFILET AF DANSK KYLLING",
+      "normalized_name": "HIMMERLAND BRYSTFILET AF DANSK KYLLING",
+      "price": 89.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 89.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GESTUS DANSK KYLLINGEBRYSTFILET ELLER KYLLINGEINDERFILET",
+      "normalized_name": "GESTUS DANSK KYLLINGEBRYSTFILET ELLER KYLLINGEINDERFILET",
+      "price": 169.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 169.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "CUVETTE AF DANSK KALV",
+      "normalized_name": "CUVETTE AF DANSK KALV",
+      "price": 69.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 69.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "RIBBENSSTEG AF DANSK FRILANDSGRIS",
+      "normalized_name": "RIBBENSSTEG AF DANSK FRILANDSGRIS",
+      "price": 44.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 44.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "FILET AF DANSK KALV",
+      "normalized_name": "FILET AF DANSK KALV",
+      "price": 119.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "DELIKATESSEN ANBEFALER MIDDAGSRETTER",
+      "normalized_name": "DELIKATESSEN ANBEFALER MIDDAGSRETTER",
+      "price": 67.95,
+      "quantity": "700 g",
+      "unit_type": "g",
+      "price_per_unit": 97.07,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "TAPASPLATTE ELLER 6 STK. DELIKATESSESMØRREBRØD",
+      "normalized_name": "TAPASPLATTE ELLER 6 STK. DELIKATESSESMØRREBRØD",
+      "price": 149.95,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 24.99,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ITALIENSK SURDEJSPIZZA",
+      "normalized_name": "ITALIENSK SURDEJSPIZZA",
+      "price": 37.95,
+      "quantity": "410 g",
+      "unit_type": "g",
+      "price_per_unit": 92.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "OKSEMEDALJON MED BACON ELLER OKSEROAST MED KRYDDERSMØR OG KARTOFFELTÅRNE",
+      "normalized_name": "OKSEMEDALJON MED BACON ELLER OKSEROAST MED KRYDDERSMØR OG KARTOFFELTÅRNE",
+      "price": 149.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 149.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GESTUS SAMSØ KARTOFLER",
+      "normalized_name": "GESTUS SAMSØ KARTOFLER",
+      "price": 10.0,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "VALNØDDER",
+      "normalized_name": "VALNØDDER",
+      "price": 50.0,
+      "quantity": "900 g",
+      "unit_type": "g",
+      "price_per_unit": 55.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "DANSKE BELLE DE BOSKOOP ÆBLER",
+      "normalized_name": "DANSKE BELLE DE BOSKOOP ÆBLER",
+      "price": 18.0,
+      "quantity": "6 stk",
+      "unit_type": "stk",
+      "price_per_unit": 3.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GESTUS BLÅBÆR",
+      "normalized_name": "GESTUS BLÅBÆR",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "K-SALAT PÅLÆGSSALAT ELLER SAUCE",
+      "normalized_name": "K-SALAT PÅLÆGSSALAT ELLER SAUCE",
+      "price": 29.0,
+      "quantity": "325 g",
+      "unit_type": "g",
+      "price_per_unit": 89.23,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "OMHU PØLSER",
+      "normalized_name": "OMHU PØLSER",
+      "price": 25.0,
+      "quantity": "240 g",
+      "unit_type": "g",
+      "price_per_unit": 104.17,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "CITTERIO ITALIENSK CHARCUTERI",
+      "normalized_name": "CITTERIO ITALIENSK CHARCUTERI",
+      "price": 20.0,
+      "quantity": "80 g",
+      "unit_type": "g",
+      "price_per_unit": 250.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "CASTELLO TISTRUP SKÆREOST",
+      "normalized_name": "CASTELLO TISTRUP SKÆREOST",
+      "price": 52.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 104.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LURPAK",
+      "normalized_name": "LURPAK",
+      "price": 18.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 90.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "CASTELLO CORE",
+      "normalized_name": "CASTELLO CORE",
+      "price": 32.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 160.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ARLA CULTURA ELLER PROTEIN",
+      "normalized_name": "ARLA CULTURA ELLER PROTEIN",
+      "price": 12.0,
+      "quantity": "450 g",
+      "unit_type": "g",
+      "price_per_unit": 26.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "COCIO",
+      "normalized_name": "COCIO",
+      "price": 8.0,
+      "quantity": "25 cl",
+      "unit_type": "cl",
+      "price_per_unit": 32.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "ARLA ØKOLOGISK YOGHURT",
+      "normalized_name": "ARLA ØKOLOGISK YOGHURT",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "NATURLI’ ØKOLOGISK DRIK",
+      "normalized_name": "NATURLI’ ØKOLOGISK DRIK",
+      "price": 15.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "GRØN BALANCE DANSK ØKOLOGISK ÆBLEMOST FRA ØRSKOV",
+      "normalized_name": "GRØN BALANCE DANSK ØKOLOGISK ÆBLEMOST FRA ØRSKOV",
+      "price": 25.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 33.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GRØN BALANCE ØKOLOGISKE MEDJOUL DADLER",
+      "normalized_name": "GRØN BALANCE ØKOLOGISKE MEDJOUL DADLER",
+      "price": 85.0,
+      "quantity": "907 g",
+      "unit_type": "g",
+      "price_per_unit": 93.72,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "NAAN BREAD",
+      "normalized_name": "NAAN BREAD",
+      "price": 10.0,
+      "quantity": "160 g",
+      "unit_type": "g",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GESTUS FÆRDIG DEJ",
+      "normalized_name": "GESTUS FÆRDIG DEJ",
+      "price": 10.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 25.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "GESTUS DANSKE GULERØDDER",
+      "normalized_name": "GESTUS DANSKE GULERØDDER",
+      "price": 10.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 10.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "RYNKEBY NEKTAR ELLER SØD BLANDET FRUGT & BÆR",
+      "normalized_name": "RYNKEBY NEKTAR ELLER SØD BLANDET FRUGT & BÆR",
+      "price": 16.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 16.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "KAROLINES KØKKEN RISALAMANDE",
+      "normalized_name": "KAROLINES KØKKEN RISALAMANDE",
+      "price": 16.0,
+      "quantity": "450 g",
+      "unit_type": "g",
+      "price_per_unit": 35.56,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "HELLMANN’S MAYONNAISE, KETCHUP ELLER BURGER DRESSING ELLER MAILLE SENNEP",
+      "normalized_name": "HELLMANN’S MAYONNAISE, KETCHUP ELLER BURGER DRESSING ELLER MAILLE SENNEP",
+      "price": 25.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 62.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "DOLMIO SAUCE ELLER BEN’S ORIGINAL RIS I KOGEPOSE ELLER SAUCE",
+      "normalized_name": "DOLMIO SAUCE ELLER BEN’S ORIGINAL RIS I KOGEPOSE ELLER SAUCE",
+      "price": 20.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 40.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "RIBERHUS ELLER CHEASY SKIVEOST",
+      "normalized_name": "RIBERHUS ELLER CHEASY SKIVEOST",
+      "price": 24.0,
+      "quantity": "240 g",
+      "unit_type": "g",
+      "price_per_unit": 100.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SANTA MARIA KRYDDERIER",
+      "normalized_name": "SANTA MARIA KRYDDERIER",
+      "price": 14.0,
+      "quantity": "92 g",
+      "unit_type": "g",
+      "price_per_unit": 152.17,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "BURGERBOOST AF DANSK OKSEKØD",
+      "normalized_name": "BURGERBOOST AF DANSK OKSEKØD",
+      "price": 39.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GESTUS DANSK KYLLINGEINDERFILET",
+      "normalized_name": "GESTUS DANSK KYLLINGEINDERFILET",
+      "price": 35.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 35.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KLEENEX",
+      "normalized_name": "KLEENEX",
+      "price": 12.0,
+      "quantity": "64 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.19,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "PROTEIN MARKED",
+      "normalized_name": "PROTEIN MARKED",
+      "price": 15.0,
+      "quantity": "330 g",
+      "unit_type": "g",
+      "price_per_unit": 45.45,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "PAMA GRØDRIS ELLER MINUTRIS",
+      "normalized_name": "PAMA GRØDRIS ELLER MINUTRIS",
+      "price": 20.0,
+      "quantity": "450 g",
+      "unit_type": "g",
+      "price_per_unit": 44.44,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "DALOON FORÅRSRULLER",
+      "normalized_name": "DALOON FORÅRSRULLER",
+      "price": 25.0,
+      "quantity": "800 g",
+      "unit_type": "g",
+      "price_per_unit": 31.25,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "ROYAL GREENLAND GRØN LANDSKE SKALREJER ELLER RAHBEK OVNKLARE PANEREDE RØDSPÆTTEFILETER",
+      "normalized_name": "ROYAL GREENLAND GRØN LANDSKE SKALREJER ELLER RAHBEK OVNKLARE PANEREDE RØDSPÆTTEFILETER",
+      "price": 28.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 70.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "GESTUS MIDDAGSRETTER, TÆRTER ELLER SPICEFIELD BOX",
+      "normalized_name": "GESTUS MIDDAGSRETTER, TÆRTER ELLER SPICEFIELD BOX",
+      "price": 28.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 56.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "KAREN VOLF ÆBLESKIVER",
+      "normalized_name": "KAREN VOLF ÆBLESKIVER",
+      "price": 25.0,
+      "quantity": "504 g",
+      "unit_type": "g",
+      "price_per_unit": 49.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "TOMS PINGVIN STÆNGER, SPUNK ELLER KÆMPE SKILDPADDE",
+      "normalized_name": "TOMS PINGVIN STÆNGER, SPUNK ELLER KÆMPE SKILDPADDE",
+      "price": 5.0,
+      "quantity": "28 g",
+      "unit_type": "g",
+      "price_per_unit": 178.57,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "1 KG JULEMEDISTER AF DANSK GRIS, 1 KG HAKKET DANSK GRISEKØD 8-12 % ELLER 1,6 KG ROSE HOLGER DANSK KYLLING",
+      "normalized_name": "1 KG JULEMEDISTER AF DANSK GRIS, 1 KG HAKKET DANSK GRISEKØD 8-12 % ELLER 1,6 KG ROSE HOLGER DANSK KYLLING",
+      "price": 59.95,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 59.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "GRØN BALANCE TOILETPAPIR ELLER KØKKENRULLER",
+      "normalized_name": "GRØN BALANCE TOILETPAPIR ELLER KØKKENRULLER",
+      "price": 22.0,
+      "quantity": "812 g",
+      "unit_type": "g",
+      "price_per_unit": 27.09,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "BUKO ØKOLOGISK FLØDEOST ELLER KAROLINES KØKKEN ØKOLOGISK HYTTEOST ELLER MOZZARELLA",
+      "normalized_name": "BUKO ØKOLOGISK FLØDEOST ELLER KAROLINES KØKKEN ØKOLOGISK HYTTEOST ELLER MOZZARELLA",
+      "price": 12.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ROYAL CLASSIC ELLER PILSNER, FAXE KONDI ELLER PEPSI MAX",
+      "normalized_name": "ROYAL CLASSIC ELLER PILSNER, FAXE KONDI ELLER PEPSI MAX",
+      "price": 72.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 218.18,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "BEN & JERRY’S",
+      "normalized_name": "BEN & JERRY’S",
+      "price": 42.0,
+      "quantity": "465 ml",
+      "unit_type": "ml",
+      "price_per_unit": 90.32,
+      "is_app_price": false
+    },
+    {
+      "category": "Bread & Bakery",
+      "original_name": "SCHULSTAD DET GODE RUGBRØD ELLER HVEDEBRØD",
+      "normalized_name": "SCHULSTAD DET GODE RUGBRØD ELLER HVEDEBRØD",
+      "price": 18.0,
+      "quantity": "950 g",
+      "unit_type": "g",
+      "price_per_unit": 18.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "GESTUS GULERODSBOLLER",
+      "normalized_name": "GESTUS GULERODSBOLLER",
+      "price": 18.0,
+      "quantity": "470 g",
+      "unit_type": "g",
+      "price_per_unit": 38.3,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "WASA RUNDA, CRACKERS ELLER BISCUIT",
+      "normalized_name": "WASA RUNDA, CRACKERS ELLER BISCUIT",
+      "price": 22.0,
+      "quantity": "330 g",
+      "unit_type": "g",
+      "price_per_unit": 66.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "RØSNÆS HVIDVIN CUVÉE",
+      "normalized_name": "RØSNÆS HVIDVIN CUVÉE",
+      "price": 139.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 186.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "FREDERIKSDAL KIRSEBÆR SIRUP",
+      "normalized_name": "FREDERIKSDAL KIRSEBÆR SIRUP",
+      "price": 65.0,
+      "quantity": "250 ml",
+      "unit_type": "ml",
+      "price_per_unit": 260.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "RØSNÆ MUSCARIS MOUSSERENDE",
+      "normalized_name": "RØSNÆ MUSCARIS MOUSSERENDE",
+      "price": 239.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 319.93,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "KAROLINES KØKKEN SUPPE",
+      "normalized_name": "KAROLINES KØKKEN SUPPE",
+      "price": 22.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 22.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KELLOGG’S MORGENMAD",
+      "normalized_name": "KELLOGG’S MORGENMAD",
+      "price": 32.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 64.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Pantry & Condiments",
+      "original_name": "DEN GAMLE FABRIK KIRSEBÆRSAUCE ELLER DESSERT KIRSBÆR",
+      "normalized_name": "DEN GAMLE FABRIK KIRSEBÆRSAUCE ELLER DESSERT KIRSBÆR",
+      "price": 28.0,
+      "quantity": "575 g",
+      "unit_type": "g",
+      "price_per_unit": 48.7,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "SUNSWEET SVESKER",
+      "normalized_name": "SUNSWEET SVESKER",
+      "price": 35.0,
+      "quantity": "300 g",
+      "unit_type": "g",
+      "price_per_unit": 116.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "INNOCENT JUICE ELLER SMOOTHIE",
+      "normalized_name": "INNOCENT JUICE ELLER SMOOTHIE",
+      "price": 25.0,
+      "quantity": "900 ml",
+      "unit_type": "ml",
+      "price_per_unit": 27.78,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "MONSTER",
+      "normalized_name": "MONSTER",
+      "price": 12.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 24.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "VALSØLILLE VITAMIN WATER, RYNKEBY TØRST ELLER FRUGTBRUS",
+      "normalized_name": "VALSØLILLE VITAMIN WATER, RYNKEBY TØRST ELLER FRUGTBRUS",
+      "price": 12.0,
+      "quantity": "100 cl",
+      "unit_type": "cl",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "PEPSI, FAXE KONDI ELLER FAXE KONDI PRO",
+      "normalized_name": "PEPSI, FAXE KONDI ELLER FAXE KONDI PRO",
+      "price": 18.0,
+      "quantity": "150 cl",
+      "unit_type": "cl",
+      "price_per_unit": 12.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "JACOBSEN, GRIMBERGEN ELLER 1664 BLANC",
+      "normalized_name": "JACOBSEN, GRIMBERGEN ELLER 1664 BLANC",
+      "price": 25.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 33.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SHAKER ELLER MOKAÏ",
+      "normalized_name": "SHAKER ELLER MOKAÏ",
+      "price": 12.0,
+      "quantity": "275 ml",
+      "unit_type": "ml",
+      "price_per_unit": 43.64,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "TUBORG ELLER CARLSBERG",
+      "normalized_name": "TUBORG ELLER CARLSBERG",
+      "price": 112.0,
+      "quantity": "33 cl",
+      "unit_type": "cl",
+      "price_per_unit": 339.39,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ROYAL XMAS",
+      "normalized_name": "ROYAL XMAS",
+      "price": 35.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 35.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "HERSLEV BRYGHUS ØKOLOGISK ALKOHOLFRI SNEFRI JULEØL 0,3 %",
+      "normalized_name": "HERSLEV BRYGHUS ØKOLOGISK ALKOHOLFRI SNEFRI JULEØL 0,3 %",
+      "price": 29.95,
+      "quantity": "44 cl",
+      "unit_type": "cl",
+      "price_per_unit": 68.07,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SKOVLYST JULEØL",
+      "normalized_name": "SKOVLYST JULEØL",
+      "price": 10.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ST. FEUILLIEN CUVÉE DE NÖEL ELLER CORSENDONK CHRISTMAS ALE",
+      "normalized_name": "ST. FEUILLIEN CUVÉE DE NÖEL ELLER CORSENDONK CHRISTMAS ALE",
+      "price": 49.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 66.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "JULEØL FRA FANØ, FUR ELLER HERSLEV BRYGHUS",
+      "normalized_name": "JULEØL FRA FANØ, FUR ELLER HERSLEV BRYGHUS",
+      "price": 29.95,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 59.9,
+      "is_app_price": false
+    },
+    {
+      "category": "Beverages",
+      "original_name": "PICK & MIX 5 ØL FOR 100,-",
+      "normalized_name": "PICK & MIX 5 ØL FOR 100,-",
+      "price": 100.0,
+      "quantity": "5 stk",
+      "unit_type": "stk",
+      "price_per_unit": 20.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Fruits & Vegetables",
+      "original_name": "SVANEKE DON’T WORRY ØKOLOGISK ALKOHOLFRI ØL",
+      "normalized_name": "SVANEKE DON’T WORRY ØKOLOGISK ALKOHOLFRI ØL",
+      "price": 18.0,
+      "quantity": "50 cl",
+      "unit_type": "cl",
+      "price_per_unit": 36.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ALKOHOLFRI CAPTAIN MORGAN SPICED GOLD 0,0 %",
+      "normalized_name": "ALKOHOLFRI CAPTAIN MORGAN SPICED GOLD 0,0 %",
+      "price": 99.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 142.79,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "NOUGHTY ALKOHOLFRI RØD- ELLER HVIDVIN",
+      "normalized_name": "NOUGHTY ALKOHOLFRI RØD- ELLER HVIDVIN",
+      "price": 89.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 119.93,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KRONENBOURG 1664 0,0 % ALKOHOLFRI",
+      "normalized_name": "KRONENBOURG 1664 0,0 % ALKOHOLFRI",
+      "price": 45.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 45.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GRAN APPASSO COLLEZIONE, TATOR PRIMITIVO ELLER PRIMITIVO PUGLIA DICIOTTO GRADI",
+      "normalized_name": "GRAN APPASSO COLLEZIONE, TATOR PRIMITIVO ELLER PRIMITIVO PUGLIA DICIOTTO GRADI",
+      "price": 89.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 119.93,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SANTA LUNA",
+      "normalized_name": "SANTA LUNA",
+      "price": 99.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 99.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SELLA & MOSCA LE ARENARIE CANNONAU RISERVA RØDVIN ELLER VERMENTINO HVIDVIN",
+      "normalized_name": "SELLA & MOSCA LE ARENARIE CANNONAU RISERVA RØDVIN ELLER VERMENTINO HVIDVIN",
+      "price": 79.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 106.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "APPASSINERO APPASSIMENTO",
+      "normalized_name": "APPASSINERO APPASSIMENTO",
+      "price": 119.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BARÃO DE VILAR THE TAWNY RESERVE PORTVIN ELLER COCKBURN’S LATE BOTTLED VINTAGE PORTVIN",
+      "normalized_name": "BARÃO DE VILAR THE TAWNY RESERVE PORTVIN ELLER COCKBURN’S LATE BOTTLED VINTAGE PORTVIN",
+      "price": 85.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 113.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LANGHE NEBBIOLO SAN SILVESTRO, CAMPO VIEJO RIOJA CRIANZA ELLER QUADRI PROSECCO DOC SPUMANTE",
+      "normalized_name": "LANGHE NEBBIOLO SAN SILVESTRO, CAMPO VIEJO RIOJA CRIANZA ELLER QUADRI PROSECCO DOC SPUMANTE",
+      "price": 69.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 93.27,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "DUC DE VERNEL SAINT-EMILION GRAND CRU ELLER MÂCON-VILLAGES CAVE DE LUGNY",
+      "normalized_name": "DUC DE VERNEL SAINT-EMILION GRAND CRU ELLER MÂCON-VILLAGES CAVE DE LUGNY",
+      "price": 79.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 106.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BERINGER CLASSIC",
+      "normalized_name": "BERINGER CLASSIC",
+      "price": 69.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 93.27,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "HAMMEKEN CELLARS 71 GRADOS",
+      "normalized_name": "HAMMEKEN CELLARS 71 GRADOS",
+      "price": 45.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 60.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BARBERA D’ALBA ELLER BARBERA APPASSIMENTO",
+      "normalized_name": "BARBERA D’ALBA ELLER BARBERA APPASSIMENTO",
+      "price": 69.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 93.27,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ANNE DE BOURG",
+      "normalized_name": "ANNE DE BOURG",
+      "price": 55.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 73.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "CELLIER DES PRINCES CÔTES DU RHÔNE GRANDE RÉSERVE BLANC ELLER ROUGE, CHÂTEAU MARSAN CADILLAC CÔTES DE BORDEAUX ELLER DESIRO SAUVIGNON BLANC",
+      "normalized_name": "CELLIER DES PRINCES CÔTES DU RHÔNE GRANDE RÉSERVE BLANC ELLER ROUGE, CHÂTEAU MARSAN CADILLAC CÔTES DE BORDEAUX ELLER DESIRO SAUVIGNON BLANC",
+      "price": 59.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 79.93,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SENSI GRIGIO ELLER APASSIONATA APPASSIMENTO",
+      "normalized_name": "SENSI GRIGIO ELLER APASSIONATA APPASSIMENTO",
+      "price": 325.0,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 433.33,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LABOURE-ROI BOURGOGNE CHARDONNAY ELLER PORTO VALDOURO 10 YEARS OLD PORT",
+      "normalized_name": "LABOURE-ROI BOURGOGNE CHARDONNAY ELLER PORTO VALDOURO 10 YEARS OLD PORT",
+      "price": 99.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 133.27,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "NUGAN THIRD GENERATION SHIRAZ ELLER CHARDONNAY",
+      "normalized_name": "NUGAN THIRD GENERATION SHIRAZ ELLER CHARDONNAY",
+      "price": 119.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 119.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LEONE MARRONE ROSSO",
+      "normalized_name": "LEONE MARRONE ROSSO",
+      "price": 109.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 109.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "DR. LOOSEN DR. L. RIESLING ELLER ALKOHOLFRI LOOSEN TEETOTALER",
+      "normalized_name": "DR. LOOSEN DR. L. RIESLING ELLER ALKOHOLFRI LOOSEN TEETOTALER",
+      "price": 64.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 86.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "MAR DE FRADES ALBARIÑO ATLANTICO ELLER CAVALMARMO RIPASSO CLASSICO SUPERIORE",
+      "normalized_name": "MAR DE FRADES ALBARIÑO ATLANTICO ELLER CAVALMARMO RIPASSO CLASSICO SUPERIORE",
+      "price": 99.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 133.27,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "KAREN VOLF SMÅKAGER, BITES, KIKS, VAFLER, FLAGER ELLER COOKIES",
+      "normalized_name": "KAREN VOLF SMÅKAGER, BITES, KIKS, VAFLER, FLAGER ELLER COOKIES",
+      "price": 14.0,
+      "quantity": "260 g",
+      "unit_type": "g",
+      "price_per_unit": 53.85,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "COLLOSORBO SANGIOVESE MERLOT CABERNET SAUVIGNON, VILLA SANDI PROSECCO, ELLER ØKOLOGISK BECCO REALE 2019",
+      "normalized_name": "COLLOSORBO SANGIOVESE MERLOT CABERNET SAUVIGNON, VILLA SANDI PROSECCO, ELLER ØKOLOGISK BECCO REALE 2019",
+      "price": 79.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 106.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "DAN CAKE TRØFFEL KUGLER ELLER PREMIUM KAGER",
+      "normalized_name": "DAN CAKE TRØFFEL KUGLER ELLER PREMIUM KAGER",
+      "price": 25.0,
+      "quantity": "350 g",
+      "unit_type": "g",
+      "price_per_unit": 71.43,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GIOVANNI ROSSO BARBERA, LABASTIDE DAUZAC 2019 ELLER CASTELLARE DI CASTELLINA CHIANTI CLASSICO RISERVA 2021",
+      "normalized_name": "GIOVANNI ROSSO BARBERA, LABASTIDE DAUZAC 2019 ELLER CASTELLARE DI CASTELLINA CHIANTI CLASSICO RISERVA 2021",
+      "price": 199.95,
+      "quantity": "75 cl",
+      "unit_type": "cl",
+      "price_per_unit": 266.6,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "TOMS SNEBOLDE",
+      "normalized_name": "TOMS SNEBOLDE",
+      "price": 65.0,
+      "quantity": "372 g",
+      "unit_type": "g",
+      "price_per_unit": 174.73,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "SPANGSBERG FLØDEBOLLER",
+      "normalized_name": "SPANGSBERG FLØDEBOLLER",
+      "price": 25.0,
+      "quantity": "124 g",
+      "unit_type": "g",
+      "price_per_unit": 201.61,
+      "is_app_price": false
+    },
+    {
+      "category": "Sweets & Snacks",
+      "original_name": "TOMS PINGVIN SLIKPOSE ELLER GO’E STÆNGER",
+      "normalized_name": "TOMS PINGVIN SLIKPOSE ELLER GO’E STÆNGER",
+      "price": 14.0,
+      "quantity": "130 g",
+      "unit_type": "g",
+      "price_per_unit": 107.69,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "PRINGLES",
+      "normalized_name": "PRINGLES",
+      "price": 18.0,
+      "quantity": "165 g",
+      "unit_type": "g",
+      "price_per_unit": 109.09,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "PANDA LICORICE ELLER DRAGÉ",
+      "normalized_name": "PANDA LICORICE ELLER DRAGÉ",
+      "price": 20.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 100.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "TULLAMORE, JÄGERMEISTER ELLER CAMPARI",
+      "normalized_name": "TULLAMORE, JÄGERMEISTER ELLER CAMPARI",
+      "price": 124.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 178.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "BOMBAY SAPPHIRE LONDON DRY GIN ELLER BACARDI AÑEJO CUATRO 4 ÅRS ROM",
+      "normalized_name": "BOMBAY SAPPHIRE LONDON DRY GIN ELLER BACARDI AÑEJO CUATRO 4 ÅRS ROM",
+      "price": 124.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 178.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GLENLIVET SINGLE MALT WHISKY ELLER BUMBU ORIGINAL",
+      "normalized_name": "GLENLIVET SINGLE MALT WHISKY ELLER BUMBU ORIGINAL",
+      "price": 249.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 357.07,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "GRANT’S TRIPLE WOOD SCOTCH WHISKY, KAHLÚA LIKØR ELLER NORDSØ BITTER",
+      "normalized_name": "GRANT’S TRIPLE WOOD SCOTCH WHISKY, KAHLÚA LIKØR ELLER NORDSØ BITTER",
+      "price": 99.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 142.79,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ADVENTSBLOKLYS MARMOR-LOOK",
+      "normalized_name": "ADVENTSBLOKLYS MARMOR-LOOK",
+      "price": 69.95,
+      "quantity": "4 stk",
+      "unit_type": "stk",
+      "price_per_unit": 17.49,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ÅRETS TV 2 JULEKALENDER PR. STK.",
+      "normalized_name": "ÅRETS TV 2 JULEKALENDER PR. STK.",
+      "price": 49.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 49.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "ÅRETS DR JULEKALENDER",
+      "normalized_name": "ÅRETS DR JULEKALENDER",
+      "price": 50.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KALENDERLYS",
+      "normalized_name": "KALENDERLYS",
+      "price": 29.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 29.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KALENDERLYS MED MOTIVER",
+      "normalized_name": "KALENDERLYS MED MOTIVER",
+      "price": 39.95,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 39.95,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "KALENDER- ELLER ADVENTSBLOKLYS",
+      "normalized_name": "KALENDER- ELLER ADVENTSBLOKLYS",
+      "price": 59.95,
+      "quantity": "4 stk",
+      "unit_type": "stk",
+      "price_per_unit": 14.99,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "GAVEPAPIR, MÆRKER ELLER BÅND",
+      "normalized_name": "GAVEPAPIR, MÆRKER ELLER BÅND",
+      "price": 25.0,
+      "quantity": "4 stk",
+      "unit_type": "stk",
+      "price_per_unit": 6.25,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ASP-HOLMBLAD SERVIETTER",
+      "normalized_name": "ASP-HOLMBLAD SERVIETTER",
+      "price": 25.0,
+      "quantity": "2 stk",
+      "unit_type": "stk",
+      "price_per_unit": 12.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ASP-HOLMBLAD KRONEELLER FYRFADSLYS",
+      "normalized_name": "ASP-HOLMBLAD KRONEELLER FYRFADSLYS",
+      "price": 79.95,
+      "quantity": "100 stk",
+      "unit_type": "stk",
+      "price_per_unit": 0.8,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ASP-HOLMBLAD BLOKLYS",
+      "normalized_name": "ASP-HOLMBLAD BLOKLYS",
+      "price": 30.0,
+      "quantity": "1 stk",
+      "unit_type": "stk",
+      "price_per_unit": 30.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "FAIRY OPVASKETABS",
+      "normalized_name": "FAIRY OPVASKETABS",
+      "price": 79.95,
+      "quantity": "56 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.43,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "LOTUS TOILETPAPIR ELLER KØKKENRULLER",
+      "normalized_name": "LOTUS TOILETPAPIR ELLER KØKKENRULLER",
+      "price": 24.0,
+      "quantity": "778 g",
+      "unit_type": "g",
+      "price_per_unit": 30.85,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "COLGATE",
+      "normalized_name": "COLGATE",
+      "price": 32.0,
+      "quantity": "16 g",
+      "unit_type": "g",
+      "price_per_unit": 2000.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SANEX PERSONLIG PLEJE ELLER PALMOLIVE FOAM HÅNDSÆBE",
+      "normalized_name": "SANEX PERSONLIG PLEJE ELLER PALMOLIVE FOAM HÅNDSÆBE",
+      "price": 18.0,
+      "quantity": "500 g",
+      "unit_type": "g",
+      "price_per_unit": 36.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "TENA ELLER LIBRESSE",
+      "normalized_name": "TENA ELLER LIBRESSE",
+      "price": 99.95,
+      "quantity": "3 stk",
+      "unit_type": "stk",
+      "price_per_unit": 33.32,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "WHISKAS",
+      "normalized_name": "WHISKAS",
+      "price": 45.0,
+      "quantity": "1020 g",
+      "unit_type": "g",
+      "price_per_unit": 44.12,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SWIFFER",
+      "normalized_name": "SWIFFER",
+      "price": 45.0,
+      "quantity": "18 stk",
+      "unit_type": "stk",
+      "price_per_unit": 2.5,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "LIBERO COMFORT ELLER UP&GO BLEER",
+      "normalized_name": "LIBERO COMFORT ELLER UP&GO BLEER",
+      "price": 75.0,
+      "quantity": "43 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.74,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SEMPER YUMMIE ELLER GRØD KLEMPOSE",
+      "normalized_name": "SEMPER YUMMIE ELLER GRØD KLEMPOSE",
+      "price": 12.0,
+      "quantity": "120 g",
+      "unit_type": "g",
+      "price_per_unit": 100.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "SEMPER GRØDPULVER",
+      "normalized_name": "SEMPER GRØDPULVER",
+      "price": 49.0,
+      "quantity": "530 g",
+      "unit_type": "g",
+      "price_per_unit": 92.45,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "MOU OKSE- ELLER HØNSEKØDSUPPE",
+      "normalized_name": "MOU OKSE- ELLER HØNSEKØDSUPPE",
+      "price": 15.0,
+      "quantity": "1 kg",
+      "unit_type": "kg",
+      "price_per_unit": 15.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Dairy & Eggs",
+      "original_name": "BUKO SMELTEOST ELLER FLØDEOST",
+      "normalized_name": "BUKO SMELTEOST ELLER FLØDEOST",
+      "price": 10.0,
+      "quantity": "200 g",
+      "unit_type": "g",
+      "price_per_unit": 50.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Deli & Cold Cuts",
+      "original_name": "STRYHN’S LEVERPOSTEJ",
+      "normalized_name": "STRYHN’S LEVERPOSTEJ",
+      "price": 18.0,
+      "quantity": "400 g",
+      "unit_type": "g",
+      "price_per_unit": 45.0,
+      "is_app_price": false
+    },
+    {
+      "category": "Special Offers",
+      "original_name": "ANTHON BERG GULDÆSKE",
+      "normalized_name": "ANTHON BERG GULDÆSKE",
+      "price": 75.0,
+      "quantity": "305 g",
+      "unit_type": "g",
+      "price_per_unit": 245.9,
+      "is_app_price": false
+    },
+    {
+      "category": "Meat & Poultry",
+      "original_name": "O.P. ANDERSON ØKOLOGISK AQUAVIT",
+      "normalized_name": "O.P. ANDERSON ØKOLOGISK AQUAVIT",
+      "price": 99.95,
+      "quantity": "70 cl",
+      "unit_type": "cl",
+      "price_per_unit": 142.79,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "ROMAGNOLI CARAVAGGIO ROSSO ELLER BIANCO",
+      "normalized_name": "ROMAGNOLI CARAVAGGIO ROSSO ELLER BIANCO",
+      "price": 499.0,
+      "quantity": "150 cl",
+      "unit_type": "cl",
+      "price_per_unit": 332.67,
+      "is_app_price": false
+    },
+    {
+      "category": "Coffee & Tea",
+      "original_name": "Fairy Opvasketabs",
+      "normalized_name": "Fairy Opvasketabs",
+      "price": 79.95,
+      "quantity": "56 stk",
+      "unit_type": "stk",
+      "price_per_unit": 1.43,
+      "is_app_price": false
+    }
+  ]
+}
