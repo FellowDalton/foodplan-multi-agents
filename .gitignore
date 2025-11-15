@@ -15,3 +15,11 @@ Thumbs.db
 *.tmp
 *.bak
 *.backup
+
+# Internal tracking files
+.claude/todos.md
+.todos/
+
+# Test files
+foodplan/simple-test.js
+foodplan/test-recipe-page.js
