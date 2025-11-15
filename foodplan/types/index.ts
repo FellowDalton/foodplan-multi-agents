@@ -281,3 +281,46 @@ export interface DealsFilter {
   sortBy?: 'price' | 'price_per_unit' | 'name';
   sortOrder?: 'asc' | 'desc';
 }
+
+// ====================
+// AI RECIPE SUGGESTIONS
+// ====================
+
+export type CuisineType = 'danish' | 'italian' | 'asian' | 'mexican' | 'indian' | 'mediterranean' | 'american' | 'french' | 'any';
+
+export interface RecipeSuggestionRequest {
+  family_id: string;
+  meal_type?: MealType;
+  cuisine?: CuisineType;
+  max_cooking_time?: number; // in minutes
+  num_recipes?: number; // 1-5
+  use_deals?: boolean;
+}
+
+export interface RecipeSuggestion {
+  title: string;
+  description: string;
+  prep_time_minutes: number;
+  cook_time_minutes: number;
+  servings: number;
+  ingredients: RecipeIngredient[];
+  instructions: string;
+  dietary_tags: string[];
+  on_sale_ingredients?: string[];
+  estimated_cost?: number;
+}
+
+export interface RecipeSuggestionsResponse {
+  success: boolean;
+  data?: {
+    recipes: RecipeSuggestion[];
+    family_restrictions: {
+      gluten_free_count: number;
+      nut_allergies: number;
+      avoid_saturated_fat: boolean;
+      avoid_potatoes: boolean;
+    };
+    deals_used?: boolean;
+  };
+  error?: string;
+}

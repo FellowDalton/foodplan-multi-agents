@@ -60,11 +60,14 @@ export default function DashboardPage() {
           </p>
         </Link>
 
-        <div className="bg-white shadow rounded-lg p-6 opacity-60 cursor-not-allowed">
+        <Link
+          href="/dashboard/recipes/suggest"
+          className="bg-white shadow rounded-lg p-6 hover:shadow-lg transition-shadow border-2 border-transparent hover:border-purple-500"
+        >
           <div className="flex items-center justify-between mb-2">
-            <h2 className="text-lg font-semibold text-gray-900">Recipes</h2>
+            <h2 className="text-lg font-semibold text-gray-900">AI Recipes</h2>
             <svg
-              className="w-6 h-6 text-gray-400"
+              className="w-6 h-6 text-purple-600"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -77,8 +80,10 @@ export default function DashboardPage() {
               />
             </svg>
           </div>
-          <p className="text-sm text-gray-600">Coming soon...</p>
-        </div>
+          <p className="text-sm text-gray-600">
+            Get AI-powered recipe suggestions based on dietary needs and deals
+          </p>
+        </Link>
 
         <div className="bg-white shadow rounded-lg p-6 opacity-60 cursor-not-allowed">
           <div className="flex items-center justify-between mb-2">
