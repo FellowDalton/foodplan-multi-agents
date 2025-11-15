@@ -35,14 +35,34 @@ export interface Category {
 // ====================
 
 export type UserRole = 'husband' | 'wife' | 'child1' | 'child2';
+export type FamilyMemberRole = 'parent' | 'admin';
 export type RecipeSource = 'ai_generated' | 'user_created' | 'imported';
 export type SaturatedFatLevel = 'low' | 'medium' | 'high';
 export type MealType = 'breakfast' | 'lunch' | 'dinner' | 'snack';
 export type StorePreference = 'netto' | 'rema' | 'meny' | 'any';
 export type DayOfWeek = 0 | 1 | 2 | 3 | 4 | 5 | 6; // 0=Monday, 6=Sunday
 
-export interface UserProfile {
+// Family sharing (Option 3: Two parent accounts managing all profiles)
+export interface Family {
   id: string;
+  name: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface FamilyMember {
+  family_id: string;
+  user_id: string; // References auth.users (the parent's auth account)
+  role: FamilyMemberRole;
+  created_at: string;
+
+  // Optional expanded relations
+  family?: Family;
+}
+
+export interface UserProfile {
+  id: string; // Auto-generated UUID, NOT tied to auth.users
+  family_id: string; // Links to family
   email: string;
   full_name?: string;
   role?: UserRole;
@@ -57,6 +77,9 @@ export interface UserProfile {
 
   created_at: string;
   updated_at: string;
+
+  // Optional expanded relations
+  family?: Family;
 }
 
 export interface RecipeIngredient {
@@ -97,7 +120,8 @@ export interface Recipe {
 
 export interface MealPlan {
   id: string;
-  user_id: string;
+  family_id: string; // Meal plans belong to families
+  user_id?: string; // DEPRECATED: Kept for backwards compatibility
 
   // Week information
   week_start_date: string; // ISO date string
@@ -107,6 +131,9 @@ export interface MealPlan {
 
   created_at: string;
   updated_at: string;
+
+  // Optional expanded relations
+  family?: Family;
 }
 
 export interface MealPlanItem {
@@ -130,7 +157,8 @@ export interface MealPlanItem {
 
 export interface ShoppingList {
   id: string;
-  user_id: string;
+  family_id: string; // Shopping lists belong to families
+  user_id?: string; // DEPRECATED: Kept for backwards compatibility
   meal_plan_id?: string;
 
   title: string;
@@ -140,6 +168,7 @@ export interface ShoppingList {
   updated_at: string;
 
   // Optional expanded relations
+  family?: Family;
   meal_plan?: MealPlan;
   items?: ShoppingListItem[];
 }
@@ -178,6 +207,8 @@ export interface ShoppingListItem {
 // ====================
 
 // For creating new records (without id, timestamps)
+export type CreateFamily = Omit<Family, 'id' | 'created_at' | 'updated_at'>;
+export type CreateFamilyMember = Omit<FamilyMember, 'created_at'>;
 export type CreateUserProfile = Omit<UserProfile, 'id' | 'created_at' | 'updated_at'>;
 export type CreateRecipe = Omit<Recipe, 'id' | 'created_at' | 'updated_at'>;
 export type CreateMealPlan = Omit<MealPlan, 'id' | 'created_at' | 'updated_at'>;
@@ -186,6 +217,7 @@ export type CreateShoppingList = Omit<ShoppingList, 'id' | 'created_at' | 'updat
 export type CreateShoppingListItem = Omit<ShoppingListItem, 'id' | 'created_at' | 'updated_at'>;
 
 // For updating records (all fields optional except id)
+export type UpdateFamily = Partial<Omit<Family, 'id' | 'created_at'>> & { id: string };
 export type UpdateUserProfile = Partial<Omit<UserProfile, 'id' | 'created_at'>> & { id: string };
 export type UpdateRecipe = Partial<Omit<Recipe, 'id' | 'created_at'>> & { id: string };
 export type UpdateMealPlan = Partial<Omit<MealPlan, 'id' | 'created_at'>> & { id: string };
