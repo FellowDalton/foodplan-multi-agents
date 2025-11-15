@@ -2,6 +2,15 @@ import { createClient } from '@/lib/supabase/server'
 import { NextResponse } from 'next/server'
 import type { CreateUserProfile } from '@/types'
 
+/**
+ * GET /api/profiles
+ * Fetch all user profiles that belong to the authenticated user's family
+ *
+ * Family Sharing Model:
+ * - Profiles are linked to families via family_id
+ * - Both parent accounts can view all profiles in their family
+ * - RLS policies enforce access control at the database level
+ */
 export async function GET() {
   try {
     const supabase = await createClient()
@@ -16,11 +25,32 @@ export async function GET() {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
     }
 
-    // Fetch all profiles for the authenticated user
-    // Note: In a real app, you might filter by household or user_id if profiles are shared
+    // Get user's family_id from family_members table
+    const { data: familyMember, error: memberError } = await supabase
+      .from('family_members')
+      .select('family_id')
+      .eq('user_id', user.id)
+      .single()
+
+    if (memberError) {
+      // User doesn't have a family yet - return empty array
+      if (memberError.code === 'PGRST116') {
+        return NextResponse.json({ profiles: [] })
+      }
+
+      console.error('Error fetching family membership:', memberError)
+      return NextResponse.json(
+        { error: 'Failed to fetch family membership' },
+        { status: 500 }
+      )
+    }
+
+    // Fetch all profiles for this family
+    // RLS policies will enforce that user can only see profiles from their family
     const { data: profiles, error } = await supabase
       .from('user_profiles')
       .select('*')
+      .eq('family_id', familyMember.family_id)
       .order('created_at', { ascending: true })
 
     if (error) {
@@ -41,6 +71,15 @@ export async function GET() {
   }
 }
 
+/**
+ * POST /api/profiles
+ * Create a new user profile for the authenticated user's family
+ *
+ * Body: CreateUserProfile (without family_id - we get it from the user's family membership)
+ * - family_id is automatically added from the user's family
+ * - Validates that role is not already taken within the family
+ * - Maximum 4 profiles per family (husband, wife, child1, child2)
+ */
 export async function POST(request: Request) {
   try {
     const supabase = await createClient()
@@ -53,6 +92,21 @@ export async function POST(request: Request) {
 
     if (authError || !user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+    }
+
+    // Get user's family_id
+    const { data: familyMember, error: memberError } = await supabase
+      .from('family_members')
+      .select('family_id')
+      .eq('user_id', user.id)
+      .single()
+
+    if (memberError) {
+      console.error('Error fetching family membership:', memberError)
+      return NextResponse.json(
+        { error: 'You must create a family before adding profiles' },
+        { status: 400 }
+      )
     }
 
     const body = await request.json()
@@ -71,10 +125,11 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Invalid role' }, { status: 400 })
     }
 
-    // Check if role is already taken
+    // Check if role is already taken within this family
     const { data: existingRole } = await supabase
       .from('user_profiles')
       .select('id')
+      .eq('family_id', familyMember.family_id)
       .eq('role', body.role)
       .single()
 
@@ -85,8 +140,30 @@ export async function POST(request: Request) {
       )
     }
 
+    // Check if family already has 4 profiles
+    const { data: existingProfiles, error: countError } = await supabase
+      .from('user_profiles')
+      .select('id')
+      .eq('family_id', familyMember.family_id)
+
+    if (countError) {
+      console.error('Error counting profiles:', countError)
+      return NextResponse.json(
+        { error: 'Failed to check existing profiles' },
+        { status: 500 }
+      )
+    }
+
+    if (existingProfiles && existingProfiles.length >= 4) {
+      return NextResponse.json(
+        { error: 'Maximum of 4 family member profiles allowed' },
+        { status: 400 }
+      )
+    }
+
     // Prepare profile data with defaults
     const profileData: CreateUserProfile = {
+      family_id: familyMember.family_id, // Add the user's family_id
       email: body.email,
       full_name: body.full_name || '',
       role: body.role,

@@ -1,6 +1,14 @@
 import { createClient } from '@/lib/supabase/server'
 import { NextResponse } from 'next/server'
 
+/**
+ * GET /api/profiles/[id]
+ * Get a specific profile by ID
+ *
+ * Family Sharing Model:
+ * - RLS policies ensure user can only access profiles from their family
+ * - Both parent accounts have access to all family profiles
+ */
 export async function GET(
   request: Request,
   { params }: { params: { id: string } }
@@ -18,6 +26,7 @@ export async function GET(
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
     }
 
+    // Fetch profile - RLS will automatically filter to user's family
     const { data: profile, error } = await supabase
       .from('user_profiles')
       .select('*')
@@ -27,7 +36,7 @@ export async function GET(
     if (error) {
       console.error('Error fetching profile:', error)
       return NextResponse.json(
-        { error: 'Profile not found' },
+        { error: 'Profile not found or you do not have access' },
         { status: 404 }
       )
     }
@@ -42,6 +51,15 @@ export async function GET(
   }
 }
 
+/**
+ * PATCH /api/profiles/[id]
+ * Update a profile
+ *
+ * Family Sharing Model:
+ * - RLS policies ensure user can only update profiles from their family
+ * - Role changes are validated to prevent duplicates within the family
+ * - Both parent accounts can update all family profiles
+ */
 export async function PATCH(
   request: Request,
   { params }: { params: { id: string } }
@@ -59,9 +77,24 @@ export async function PATCH(
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
     }
 
+    // Get user's family_id
+    const { data: familyMember, error: memberError } = await supabase
+      .from('family_members')
+      .select('family_id')
+      .eq('user_id', user.id)
+      .single()
+
+    if (memberError) {
+      console.error('Error fetching family membership:', memberError)
+      return NextResponse.json(
+        { error: 'You do not belong to a family' },
+        { status: 403 }
+      )
+    }
+
     const body = await request.json()
 
-    // If role is being changed, check it's not already taken
+    // If role is being changed, check it's not already taken within this family
     if (body.role) {
       const validRoles = ['husband', 'wife', 'child1', 'child2']
       if (!validRoles.includes(body.role)) {
@@ -71,6 +104,7 @@ export async function PATCH(
       const { data: existingRole } = await supabase
         .from('user_profiles')
         .select('id')
+        .eq('family_id', familyMember.family_id)
         .eq('role', body.role)
         .neq('id', params.id)
         .single()
@@ -84,9 +118,9 @@ export async function PATCH(
     }
 
     // Remove fields that shouldn't be updated
-    const { id, created_at, updated_at, ...updateData } = body
+    const { id, family_id, created_at, updated_at, ...updateData } = body
 
-    // Update profile
+    // Update profile - RLS will ensure user can only update profiles from their family
     const { data: profile, error } = await supabase
       .from('user_profiles')
       .update(updateData)
@@ -97,7 +131,7 @@ export async function PATCH(
     if (error) {
       console.error('Error updating profile:', error)
       return NextResponse.json(
-        { error: 'Failed to update profile' },
+        { error: 'Failed to update profile or you do not have access' },
         { status: 500 }
       )
     }
@@ -112,6 +146,14 @@ export async function PATCH(
   }
 }
 
+/**
+ * DELETE /api/profiles/[id]
+ * Delete a profile
+ *
+ * Family Sharing Model:
+ * - RLS policies ensure user can only delete profiles from their family
+ * - Both parent accounts can delete family profiles
+ */
 export async function DELETE(
   request: Request,
   { params }: { params: { id: string } }
@@ -129,6 +171,7 @@ export async function DELETE(
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
     }
 
+    // Delete profile - RLS will ensure user can only delete profiles from their family
     const { error } = await supabase
       .from('user_profiles')
       .delete()
@@ -137,7 +180,7 @@ export async function DELETE(
     if (error) {
       console.error('Error deleting profile:', error)
       return NextResponse.json(
-        { error: 'Failed to delete profile' },
+        { error: 'Failed to delete profile or you do not have access' },
         { status: 500 }
       )
     }

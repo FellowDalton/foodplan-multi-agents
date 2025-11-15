@@ -4,7 +4,7 @@ import { useState } from 'react'
 import type { UserRole, CreateUserProfile } from '@/types'
 
 interface AddFamilyMemberFormProps {
-  onSubmit: (profile: CreateUserProfile) => Promise<void>
+  onSubmit: (profile: Omit<CreateUserProfile, 'family_id'>) => Promise<void>
   onCancel: () => void
   currentUserEmail?: string
   usedRoles: UserRole[]
@@ -16,7 +16,7 @@ export default function AddFamilyMemberForm({
   currentUserEmail,
   usedRoles,
 }: AddFamilyMemberFormProps) {
-  const [formData, setFormData] = useState<CreateUserProfile>({
+  const [formData, setFormData] = useState<Omit<CreateUserProfile, 'family_id'>>({
     email: currentUserEmail || '',
     full_name: '',
     role: undefined as any,

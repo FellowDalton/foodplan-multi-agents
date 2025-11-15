@@ -2,24 +2,36 @@
 
 import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
-import type { UserProfile, UserRole, CreateUserProfile } from '@/types'
+import type { UserProfile, UserRole, CreateUserProfile, Family } from '@/types'
 import FamilyMemberCard from '@/components/FamilyMemberCard'
 import AddFamilyMemberForm from '@/components/AddFamilyMemberForm'
 import EditFamilyMemberForm from '@/components/EditFamilyMemberForm'
+import InviteFamilyMemberModal from '@/components/InviteFamilyMemberModal'
 
 type ViewMode = 'list' | 'add' | 'edit'
 
+/**
+ * Family Profile Page
+ *
+ * Family Sharing Model:
+ * - Displays all profiles for the user's family
+ * - Redirects to setup page if user doesn't have a family
+ * - Shows family name and allows inviting other parents
+ * - Both parent accounts can view/edit all profiles
+ */
 export default function FamilyProfilePage() {
   const router = useRouter()
+  const [family, setFamily] = useState<Family | null>(null)
   const [profiles, setProfiles] = useState<UserProfile[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [viewMode, setViewMode] = useState<ViewMode>('list')
   const [editingProfile, setEditingProfile] = useState<UserProfile | null>(null)
   const [currentUserEmail, setCurrentUserEmail] = useState<string>('')
+  const [showInviteModal, setShowInviteModal] = useState(false)
 
   useEffect(() => {
-    fetchProfiles()
+    checkFamilyAndFetchProfiles()
     getCurrentUser()
   }, [])
 
@@ -38,9 +50,46 @@ export default function FamilyProfilePage() {
     }
   }
 
-  const fetchProfiles = async () => {
+  const checkFamilyAndFetchProfiles = async () => {
     try {
       setLoading(true)
+      setError(null)
+
+      // Check if user has a family
+      const familyResponse = await fetch('/api/family')
+      const familyData = await familyResponse.json()
+
+      if (!familyResponse.ok) {
+        throw new Error(familyData.error || 'Failed to fetch family')
+      }
+
+      // If no family, redirect to setup
+      if (!familyData.family) {
+        router.push('/dashboard/setup')
+        return
+      }
+
+      setFamily(familyData.family)
+
+      // Fetch profiles
+      const profilesResponse = await fetch('/api/profiles')
+      const profilesData = await profilesResponse.json()
+
+      if (!profilesResponse.ok) {
+        throw new Error(profilesData.error || 'Failed to fetch profiles')
+      }
+
+      setProfiles(profilesData.profiles || [])
+    } catch (err) {
+      console.error('Error fetching data:', err)
+      setError(err instanceof Error ? err.message : 'Failed to load data')
+    } finally {
+      setLoading(false)
+    }
+  }
+
+  const fetchProfiles = async () => {
+    try {
       setError(null)
 
       const response = await fetch('/api/profiles')
@@ -54,12 +103,10 @@ export default function FamilyProfilePage() {
     } catch (err) {
       console.error('Error fetching profiles:', err)
       setError(err instanceof Error ? err.message : 'Failed to load profiles')
-    } finally {
-      setLoading(false)
     }
   }
 
-  const handleAddProfile = async (profileData: CreateUserProfile) => {
+  const handleAddProfile = async (profileData: Omit<CreateUserProfile, 'family_id'>) => {
     try {
       const response = await fetch('/api/profiles', {
         method: 'POST',
@@ -168,13 +215,36 @@ export default function FamilyProfilePage() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Header */}
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">
-          Family Dietary Profiles
-        </h1>
-        <p className="mt-2 text-sm text-gray-600">
-          Manage your family members and their dietary restrictions to get
-          personalized meal plans and shopping suggestions.
-        </p>
+        <div className="flex items-center justify-between">
+          <div>
+            <h1 className="text-3xl font-bold text-gray-900">
+              {family?.name || 'Family Dietary Profiles'}
+            </h1>
+            <p className="mt-2 text-sm text-gray-600">
+              Manage your family members and their dietary restrictions to get
+              personalized meal plans and shopping suggestions.
+            </p>
+          </div>
+          <button
+            onClick={() => setShowInviteModal(true)}
+            className="hidden sm:flex items-center px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500"
+          >
+            <svg
+              className="w-5 h-5 mr-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z"
+              />
+            </svg>
+            Invite Parent
+          </button>
+        </div>
       </div>
 
       {/* Error Message */}
@@ -302,6 +372,14 @@ export default function FamilyProfilePage() {
             usedRoles={getUsedRoles()}
           />
         </div>
+      )}
+
+      {/* Invite Family Member Modal */}
+      {showInviteModal && family && (
+        <InviteFamilyMemberModal
+          familyId={family.id}
+          onClose={() => setShowInviteModal(false)}
+        />
       )}
     </div>
   )
