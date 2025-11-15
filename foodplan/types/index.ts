@@ -224,3 +224,60 @@ export type UpdateMealPlan = Partial<Omit<MealPlan, 'id' | 'created_at'>> & { id
 export type UpdateMealPlanItem = Partial<Omit<MealPlanItem, 'id' | 'created_at'>> & { id: string };
 export type UpdateShoppingList = Partial<Omit<ShoppingList, 'id' | 'created_at'>> & { id: string };
 export type UpdateShoppingListItem = Partial<Omit<ShoppingListItem, 'id' | 'created_at'>> & { id: string };
+
+// ====================
+// DEALS FROM JSON FILES
+// ====================
+
+// Structure of individual deal items in the JSON files
+export interface DealItem {
+  category: string;
+  original_name: string;
+  normalized_name: string;
+  price: number;
+  quantity: string;
+  unit_type: string;
+  price_per_unit: number;
+  is_app_price: boolean;
+}
+
+// Structure of the JSON files from the scrapers
+export interface StoreDealsJSON {
+  store_name: string;
+  scraped_at: string;
+  valid_from: string;
+  valid_to: string;
+  week_number: number;
+  deals: DealItem[];
+}
+
+// Extended deal with store information for display
+export interface DealWithStore extends DealItem {
+  store_name: string;
+  store_slug: 'netto' | 'rema' | 'meny';
+  valid_from: string;
+  valid_to: string;
+  week_number: number;
+}
+
+// API response types
+export interface DealsAPIResponse {
+  success: boolean;
+  data?: {
+    deals: DealWithStore[];
+    total_count: number;
+    stores: string[];
+    categories: string[];
+    latest_date: string;
+  };
+  error?: string;
+}
+
+// Filter options for deals
+export interface DealsFilter {
+  store?: 'netto' | 'rema' | 'meny';
+  category?: string;
+  search?: string;
+  sortBy?: 'price' | 'price_per_unit' | 'name';
+  sortOrder?: 'asc' | 'desc';
+}
