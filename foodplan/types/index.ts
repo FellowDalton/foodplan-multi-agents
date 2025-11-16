@@ -1,0 +1,326 @@
+// Type definitions for the Foodplan application
+
+// ====================
+// EXISTING TYPES (from original schema)
+// ====================
+
+export interface Store {
+  id: string;
+  name: string;
+  slug: string;
+}
+
+export interface Deal {
+  id: string;
+  category: string;
+  originalName: string;
+  normalizedName: string;
+  price: number;
+  quantity?: string;
+  unitType?: string;
+  pricePerUnit?: number;
+  isAppPrice: boolean;
+  validFrom: string;
+  validTo: string;
+  scrapedAt: string;
+}
+
+export interface Category {
+  id: string;
+  name: string;
+}
+
+// ====================
+// NEW TYPES (meal planning features)
+// ====================
+
+export type UserRole = 'husband' | 'wife' | 'child1' | 'child2';
+export type FamilyMemberRole = 'parent' | 'admin';
+export type RecipeSource = 'ai_generated' | 'user_created' | 'imported';
+export type SaturatedFatLevel = 'low' | 'medium' | 'high';
+export type MealType = 'breakfast' | 'lunch' | 'dinner' | 'snack';
+export type StorePreference = 'netto' | 'rema' | 'meny' | 'any';
+export type DayOfWeek = 0 | 1 | 2 | 3 | 4 | 5 | 6; // 0=Monday, 6=Sunday
+
+// Family sharing (Option 3: Two parent accounts managing all profiles)
+export interface Family {
+  id: string;
+  name: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface FamilyMember {
+  family_id: string;
+  user_id: string; // References auth.users (the parent's auth account)
+  role: FamilyMemberRole;
+  created_at: string;
+
+  // Optional expanded relations
+  family?: Family;
+}
+
+export interface UserProfile {
+  id: string; // Auto-generated UUID, NOT tied to auth.users
+  family_id: string; // Links to family
+  email: string;
+  full_name?: string;
+  role?: UserRole;
+
+  // Dietary restrictions
+  is_gluten_free: boolean;
+  has_nut_allergy: boolean;
+  can_eat_almonds: boolean;
+  avoid_saturated_fat: boolean;
+  avoid_potatoes: boolean;
+  can_eat_sweet_potatoes: boolean;
+
+  created_at: string;
+  updated_at: string;
+
+  // Optional expanded relations
+  family?: Family;
+}
+
+export interface RecipeIngredient {
+  name: string;
+  quantity: string;
+  unit: string;
+}
+
+export interface Recipe {
+  id: string;
+  user_id?: string;
+
+  // Recipe details
+  title: string;
+  description?: string;
+  ingredients?: RecipeIngredient[];
+  instructions?: string;
+  prep_time_minutes?: number;
+  cook_time_minutes?: number;
+  servings?: number;
+
+  // Dietary flags
+  is_gluten_free: boolean;
+  contains_nuts: boolean;
+  nut_types?: string[];
+  saturated_fat_level?: SaturatedFatLevel;
+  contains_potatoes: boolean;
+  contains_sweet_potatoes: boolean;
+
+  // Metadata
+  image_url?: string;
+  source: RecipeSource;
+  tags?: string[];
+
+  created_at: string;
+  updated_at: string;
+}
+
+export interface MealPlan {
+  id: string;
+  family_id: string; // Meal plans belong to families
+  user_id?: string; // DEPRECATED: Kept for backwards compatibility
+
+  // Week information
+  week_start_date: string; // ISO date string
+  week_number: number;
+  year: number;
+  is_active: boolean;
+
+  created_at: string;
+  updated_at: string;
+
+  // Optional expanded relations
+  family?: Family;
+}
+
+export interface MealPlanItem {
+  id: string;
+  meal_plan_id: string;
+  recipe_id?: string;
+
+  // Meal timing
+  day_of_week: DayOfWeek;
+  meal_type: MealType;
+
+  // Custom notes for non-recipe meals
+  custom_notes?: string;
+
+  created_at: string;
+  updated_at: string;
+
+  // Optional expanded relations
+  recipe?: Recipe;
+}
+
+export interface ShoppingList {
+  id: string;
+  family_id: string; // Shopping lists belong to families
+  user_id?: string; // DEPRECATED: Kept for backwards compatibility
+  meal_plan_id?: string;
+
+  title: string;
+  is_completed: boolean;
+
+  created_at: string;
+  updated_at: string;
+
+  // Optional expanded relations
+  family?: Family;
+  meal_plan?: MealPlan;
+  items?: ShoppingListItem[];
+}
+
+export interface ShoppingListItem {
+  id: string;
+  shopping_list_id: string;
+
+  // Link to existing products/deals
+  product_id?: string;
+  deal_id?: string;
+
+  // Item details
+  name: string;
+  quantity?: string;
+  unit?: string;
+  category_id?: string;
+
+  // Shopping status
+  is_checked: boolean;
+  estimated_price?: number;
+  store_preference: StorePreference;
+  notes?: string;
+
+  created_at: string;
+  updated_at: string;
+
+  // Optional expanded relations
+  product?: any; // TODO: Define Product type when schema is known
+  deal?: Deal;
+  category?: Category;
+}
+
+// ====================
+// UTILITY TYPES
+// ====================
+
+// For creating new records (without id, timestamps)
+export type CreateFamily = Omit<Family, 'id' | 'created_at' | 'updated_at'>;
+export type CreateFamilyMember = Omit<FamilyMember, 'created_at'>;
+export type CreateUserProfile = Omit<UserProfile, 'id' | 'created_at' | 'updated_at'>;
+export type CreateRecipe = Omit<Recipe, 'id' | 'created_at' | 'updated_at'>;
+export type CreateMealPlan = Omit<MealPlan, 'id' | 'created_at' | 'updated_at'>;
+export type CreateMealPlanItem = Omit<MealPlanItem, 'id' | 'created_at' | 'updated_at'>;
+export type CreateShoppingList = Omit<ShoppingList, 'id' | 'created_at' | 'updated_at'>;
+export type CreateShoppingListItem = Omit<ShoppingListItem, 'id' | 'created_at' | 'updated_at'>;
+
+// For updating records (all fields optional except id)
+export type UpdateFamily = Partial<Omit<Family, 'id' | 'created_at'>> & { id: string };
+export type UpdateUserProfile = Partial<Omit<UserProfile, 'id' | 'created_at'>> & { id: string };
+export type UpdateRecipe = Partial<Omit<Recipe, 'id' | 'created_at'>> & { id: string };
+export type UpdateMealPlan = Partial<Omit<MealPlan, 'id' | 'created_at'>> & { id: string };
+export type UpdateMealPlanItem = Partial<Omit<MealPlanItem, 'id' | 'created_at'>> & { id: string };
+export type UpdateShoppingList = Partial<Omit<ShoppingList, 'id' | 'created_at'>> & { id: string };
+export type UpdateShoppingListItem = Partial<Omit<ShoppingListItem, 'id' | 'created_at'>> & { id: string };
+
+// ====================
+// DEALS FROM JSON FILES
+// ====================
+
+// Structure of individual deal items in the JSON files
+export interface DealItem {
+  category: string;
+  original_name: string;
+  normalized_name: string;
+  price: number;
+  quantity: string;
+  unit_type: string;
+  price_per_unit: number;
+  is_app_price: boolean;
+}
+
+// Structure of the JSON files from the scrapers
+export interface StoreDealsJSON {
+  store_name: string;
+  scraped_at: string;
+  valid_from: string;
+  valid_to: string;
+  week_number: number;
+  deals: DealItem[];
+}
+
+// Extended deal with store information for display
+export interface DealWithStore extends DealItem {
+  store_name: string;
+  store_slug: 'netto' | 'rema' | 'meny';
+  valid_from: string;
+  valid_to: string;
+  week_number: number;
+}
+
+// API response types
+export interface DealsAPIResponse {
+  success: boolean;
+  data?: {
+    deals: DealWithStore[];
+    total_count: number;
+    stores: string[];
+    categories: string[];
+    latest_date: string;
+  };
+  error?: string;
+}
+
+// Filter options for deals
+export interface DealsFilter {
+  store?: 'netto' | 'rema' | 'meny';
+  category?: string;
+  search?: string;
+  sortBy?: 'price' | 'price_per_unit' | 'name';
+  sortOrder?: 'asc' | 'desc';
+}
+
+// ====================
+// AI RECIPE SUGGESTIONS
+// ====================
+
+export type CuisineType = 'danish' | 'italian' | 'asian' | 'mexican' | 'indian' | 'mediterranean' | 'american' | 'french' | 'any';
+
+export interface RecipeSuggestionRequest {
+  family_id: string;
+  meal_type?: MealType;
+  cuisine?: CuisineType;
+  max_cooking_time?: number; // in minutes
+  num_recipes?: number; // 1-5
+  use_deals?: boolean;
+}
+
+export interface RecipeSuggestion {
+  title: string;
+  description: string;
+  prep_time_minutes: number;
+  cook_time_minutes: number;
+  servings: number;
+  ingredients: RecipeIngredient[];
+  instructions: string;
+  dietary_tags: string[];
+  on_sale_ingredients?: string[];
+  estimated_cost?: number;
+}
+
+export interface RecipeSuggestionsResponse {
+  success: boolean;
+  data?: {
+    recipes: RecipeSuggestion[];
+    family_restrictions: {
+      gluten_free_count: number;
+      nut_allergies: number;
+      avoid_saturated_fat: boolean;
+      avoid_potatoes: boolean;
+    };
+    deals_used?: boolean;
+  };
+  error?: string;
+}
