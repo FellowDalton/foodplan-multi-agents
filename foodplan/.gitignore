@@ -18,7 +18,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -27,6 +26,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# Python lib/ is ignored, but allow Next.js lib/ directory
+# lib/ - removed to allow Next.js Supabase utilities
 
 # Logs
 logs/
@@ -63,3 +65,4 @@ next-env.d.ts
 # Testing
 .turbo
 coverage/
+test-*.js
